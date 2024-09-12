@@ -1,0 +1,164 @@
+/* Background image for the entire page */
+body {
+  background-image: url('home.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif; /* Ensuring the text is legible */
+}
+
+.search-container {
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px; /* Adds space between the form and the results */
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#results {
+  margin-top: 20px; /* Adjust this value as needed to add space between the form and the results */
+  text-align: left;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding-top: 20px;
+  border-top: 1px solid #ccc; /* Optional: Adds a light border at the top */
+}
+
+.flight-item {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.book-button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.book-button:hover {
+  background-color: #218838;
+}
+
+
+/* Existing styles... */
+
+.back-button {
+  display: inline-block;
+  margin: 20px;
+  font-size: 18px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.booking-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.form-section {
+  flex: 1;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.form-section label {
+  display: block;
+  margin-bottom: 5px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.form-section input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.price-container {
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#confirm-booking {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.details-section {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.details-section h3 {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+/* #flight-details {
+  font-size: 18px;
+} */
+
+/* Styling for the flight details block */
+.flight-details {
+  width: 48%; /* Slightly less than half the container width for padding */
+  font-size: 18px; /* Consistent font size for details */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+
+/* Styling for the weather details block */
+.weather-details {
+  width: 48%; /* Matches the flight details width */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-size: 18px; /* Ensuring text size is readable */
+}

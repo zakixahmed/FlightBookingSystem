@@ -1,0 +1,5482 @@
+[
+  {
+    "id": 1,
+    "origin_city": "Chicago",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 88,
+    "ticket_price": 183,
+    "departure_time": "2024-08-01T18:00:00Z",
+    "arrival_time": "2024-08-01T20:00:00Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "San Francisco",
+    "destination_city": "Paris",
+    "airline": "Delta",
+    "available_seats": 95,
+    "ticket_price": 184,
+    "departure_time": "2024-08-06T09:00:00Z",
+    "arrival_time": "2024-08-06T11:00:00Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Boston",
+    "airline": "Frontier",
+    "available_seats": 63,
+    "ticket_price": 67,
+    "departure_time": "2024-08-07T02:00:00Z",
+    "arrival_time": "2024-08-07T04:00:00Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Frontier",
+    "available_seats": 134,
+    "ticket_price": 100,
+    "departure_time": "2024-08-07T14:00:00Z",
+    "arrival_time": "2024-08-07T16:00:00Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Beijing",
+    "airline": "United",
+    "available_seats": 125,
+    "ticket_price": 65,
+    "departure_time": "2024-08-10T11:00:00Z",
+    "arrival_time": "2024-08-10T13:00:00Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Berlin",
+    "destination_city": "Dubai",
+    "airline": "American Airlines",
+    "available_seats": 110,
+    "ticket_price": 113,
+    "departure_time": "2024-08-08T06:00:00Z",
+    "arrival_time": "2024-08-08T08:00:00Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Los Angeles",
+    "destination_city": "Chicago",
+    "airline": "JetBlue",
+    "available_seats": 105,
+    "ticket_price": 107,
+    "departure_time": "2024-08-02T21:00:00Z",
+    "arrival_time": "2024-08-02T23:00:00Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "New York",
+    "destination_city": "Sydney",
+    "airline": "Spirit",
+    "available_seats": 83,
+    "ticket_price": 178,
+    "departure_time": "2024-08-08T22:00:00Z",
+    "arrival_time": "2024-08-09T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "origin_city": "Orlando",
+    "destination_city": "San Francisco",
+    "airline": "Delta",
+    "available_seats": 121,
+    "ticket_price": 115,
+    "departure_time": "2024-08-04T21:00:00Z",
+    "arrival_time": "2024-08-04T23:00:00Z"
+  },
+  {
+    "id": 10,
+    "origin_city": "Sydney",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 106,
+    "ticket_price": 159,
+    "departure_time": "2024-08-09T05:00:00Z",
+    "arrival_time": "2024-08-09T07:00:00Z"
+  },
+  {
+    "id": 11,
+    "origin_city": "Beijing",
+    "destination_city": "Orlando",
+    "airline": "United",
+    "available_seats": 120,
+    "ticket_price": 143,
+    "departure_time": "2024-08-03T16:00:00Z",
+    "arrival_time": "2024-08-03T18:00:00Z"
+  },
+  {
+    "id": 12,
+    "origin_city": "San Francisco",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 181,
+    "ticket_price": 59,
+    "departure_time": "2024-08-09T20:00:00Z",
+    "arrival_time": "2024-08-09T22:00:00Z"
+  },
+  {
+    "id": 13,
+    "origin_city": "San Francisco",
+    "destination_city": "Los Angeles",
+    "airline": "American Airlines",
+    "available_seats": 159,
+    "ticket_price": 170,
+    "departure_time": "2024-08-03T13:00:00Z",
+    "arrival_time": "2024-08-03T15:00:00Z"
+  },
+  {
+    "id": 14,
+    "origin_city": "Berlin",
+    "destination_city": "Paris",
+    "airline": "Alaska Airlines",
+    "available_seats": 186,
+    "ticket_price": 170,
+    "departure_time": "2024-08-02T06:00:00Z",
+    "arrival_time": "2024-08-02T08:00:00Z"
+  },
+  {
+    "id": 15,
+    "origin_city": "Miami",
+    "destination_city": "San Francisco",
+    "airline": "JetBlue",
+    "available_seats": 129,
+    "ticket_price": 176,
+    "departure_time": "2024-08-09T02:00:00Z",
+    "arrival_time": "2024-08-09T04:00:00Z"
+  },
+  {
+    "id": 16,
+    "origin_city": "Orlando",
+    "destination_city": "Miami",
+    "airline": "United",
+    "available_seats": 51,
+    "ticket_price": 117,
+    "departure_time": "2024-08-02T06:00:00Z",
+    "arrival_time": "2024-08-02T08:00:00Z"
+  },
+  {
+    "id": 17,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 51,
+    "ticket_price": 86,
+    "departure_time": "2024-08-04T07:00:00Z",
+    "arrival_time": "2024-08-04T09:00:00Z"
+  },
+  {
+    "id": 18,
+    "origin_city": "Los Angeles",
+    "destination_city": "Boston",
+    "airline": "United",
+    "available_seats": 118,
+    "ticket_price": 162,
+    "departure_time": "2024-08-05T15:00:00Z",
+    "arrival_time": "2024-08-05T17:00:00Z"
+  },
+  {
+    "id": 19,
+    "origin_city": "Sydney",
+    "destination_city": "Paris",
+    "airline": "Southwest",
+    "available_seats": 85,
+    "ticket_price": 91,
+    "departure_time": "2024-08-08T10:00:00Z",
+    "arrival_time": "2024-08-08T12:00:00Z"
+  },
+  {
+    "id": 20,
+    "origin_city": "Sydney",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 112,
+    "ticket_price": 88,
+    "departure_time": "2024-08-04T13:00:00Z",
+    "arrival_time": "2024-08-04T15:00:00Z"
+  },
+  {
+    "id": 21,
+    "origin_city": "London",
+    "destination_city": "Tokyo",
+    "airline": "Frontier",
+    "available_seats": 114,
+    "ticket_price": 166,
+    "departure_time": "2024-08-01T09:00:00Z",
+    "arrival_time": "2024-08-01T11:00:00Z"
+  },
+  {
+    "id": 22,
+    "origin_city": "Tokyo",
+    "destination_city": "London",
+    "airline": "Southwest",
+    "available_seats": 169,
+    "ticket_price": 75,
+    "departure_time": "2024-08-03T11:00:00Z",
+    "arrival_time": "2024-08-03T13:00:00Z"
+  },
+  {
+    "id": 23,
+    "origin_city": "Berlin",
+    "destination_city": "Los Angeles",
+    "airline": "Delta",
+    "available_seats": 148,
+    "ticket_price": 186,
+    "departure_time": "2024-08-07T22:00:00Z",
+    "arrival_time": "2024-08-08T00:00:00Z"
+  },
+  {
+    "id": 24,
+    "origin_city": "London",
+    "destination_city": "Chicago",
+    "airline": "Spirit",
+    "available_seats": 144,
+    "ticket_price": 169,
+    "departure_time": "2024-08-04T11:00:00Z",
+    "arrival_time": "2024-08-04T13:00:00Z"
+  },
+  {
+    "id": 25,
+    "origin_city": "San Francisco",
+    "destination_city": "Paris",
+    "airline": "Delta",
+    "available_seats": 102,
+    "ticket_price": 121,
+    "departure_time": "2024-08-04T11:00:00Z",
+    "arrival_time": "2024-08-04T13:00:00Z"
+  },
+  {
+    "id": 26,
+    "origin_city": "Sydney",
+    "destination_city": "Orlando",
+    "airline": "Alaska Airlines",
+    "available_seats": 67,
+    "ticket_price": 200,
+    "departure_time": "2024-08-01T19:00:00Z",
+    "arrival_time": "2024-08-01T21:00:00Z"
+  },
+  {
+    "id": 27,
+    "origin_city": "Paris",
+    "destination_city": "Dubai",
+    "airline": "Frontier",
+    "available_seats": 92,
+    "ticket_price": 55,
+    "departure_time": "2024-08-05T23:00:00Z",
+    "arrival_time": "2024-08-06T01:00:00Z"
+  },
+  {
+    "id": 28,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Alaska Airlines",
+    "available_seats": 133,
+    "ticket_price": 197,
+    "departure_time": "2024-08-03T23:00:00Z",
+    "arrival_time": "2024-08-04T01:00:00Z"
+  },
+  {
+    "id": 29,
+    "origin_city": "Paris",
+    "destination_city": "Chicago",
+    "airline": "JetBlue",
+    "available_seats": 181,
+    "ticket_price": 56,
+    "departure_time": "2024-08-05T20:00:00Z",
+    "arrival_time": "2024-08-05T22:00:00Z"
+  },
+  {
+    "id": 30,
+    "origin_city": "San Francisco",
+    "destination_city": "Boston",
+    "airline": "JetBlue",
+    "available_seats": 143,
+    "ticket_price": 159,
+    "departure_time": "2024-08-06T18:00:00Z",
+    "arrival_time": "2024-08-06T20:00:00Z"
+  },
+  {
+    "id": 31,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 104,
+    "ticket_price": 165,
+    "departure_time": "2024-08-02T19:00:00Z",
+    "arrival_time": "2024-08-02T21:00:00Z"
+  },
+  {
+    "id": 32,
+    "origin_city": "Los Angeles",
+    "destination_city": "Dubai",
+    "airline": "Delta",
+    "available_seats": 167,
+    "ticket_price": 153,
+    "departure_time": "2024-08-08T20:00:00Z",
+    "arrival_time": "2024-08-08T22:00:00Z"
+  },
+  {
+    "id": 33,
+    "origin_city": "Miami",
+    "destination_city": "Orlando",
+    "airline": "Spirit",
+    "available_seats": 177,
+    "ticket_price": 94,
+    "departure_time": "2024-08-04T04:00:00Z",
+    "arrival_time": "2024-08-04T06:00:00Z"
+  },
+  {
+    "id": 34,
+    "origin_city": "Las Vegas",
+    "destination_city": "Orlando",
+    "airline": "Frontier",
+    "available_seats": 82,
+    "ticket_price": 160,
+    "departure_time": "2024-08-07T13:00:00Z",
+    "arrival_time": "2024-08-07T15:00:00Z"
+  },
+  {
+    "id": 35,
+    "origin_city": "Sydney",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 123,
+    "ticket_price": 101,
+    "departure_time": "2024-08-06T13:00:00Z",
+    "arrival_time": "2024-08-06T15:00:00Z"
+  },
+  {
+    "id": 36,
+    "origin_city": "Dubai",
+    "destination_city": "Miami",
+    "airline": "Southwest",
+    "available_seats": 148,
+    "ticket_price": 179,
+    "departure_time": "2024-08-07T14:00:00Z",
+    "arrival_time": "2024-08-07T16:00:00Z"
+  },
+  {
+    "id": 37,
+    "origin_city": "Orlando",
+    "destination_city": "Tokyo",
+    "airline": "Frontier",
+    "available_seats": 175,
+    "ticket_price": 149,
+    "departure_time": "2024-08-08T07:00:00Z",
+    "arrival_time": "2024-08-08T09:00:00Z"
+  },
+  {
+    "id": 38,
+    "origin_city": "Las Vegas",
+    "destination_city": "Sydney",
+    "airline": "Alaska Airlines",
+    "available_seats": 80,
+    "ticket_price": 162,
+    "departure_time": "2024-08-09T15:00:00Z",
+    "arrival_time": "2024-08-09T17:00:00Z"
+  },
+  {
+    "id": 39,
+    "origin_city": "Chicago",
+    "destination_city": "Paris",
+    "airline": "American Airlines",
+    "available_seats": 134,
+    "ticket_price": 153,
+    "departure_time": "2024-08-05T23:00:00Z",
+    "arrival_time": "2024-08-06T01:00:00Z"
+  },
+  {
+    "id": 40,
+    "origin_city": "New York",
+    "destination_city": "Tokyo",
+    "airline": "Frontier",
+    "available_seats": 151,
+    "ticket_price": 71,
+    "departure_time": "2024-08-11T05:00:00Z",
+    "arrival_time": "2024-08-11T07:00:00Z"
+  },
+  {
+    "id": 41,
+    "origin_city": "San Francisco",
+    "destination_city": "Sydney",
+    "airline": "JetBlue",
+    "available_seats": 86,
+    "ticket_price": 118,
+    "departure_time": "2024-08-04T04:00:00Z",
+    "arrival_time": "2024-08-04T06:00:00Z"
+  },
+  {
+    "id": 42,
+    "origin_city": "Tokyo",
+    "destination_city": "Beijing",
+    "airline": "American Airlines",
+    "available_seats": 135,
+    "ticket_price": 145,
+    "departure_time": "2024-08-03T19:00:00Z",
+    "arrival_time": "2024-08-03T21:00:00Z"
+  },
+  {
+    "id": 43,
+    "origin_city": "Paris",
+    "destination_city": "Tokyo",
+    "airline": "Alaska Airlines",
+    "available_seats": 180,
+    "ticket_price": 108,
+    "departure_time": "2024-08-01T15:00:00Z",
+    "arrival_time": "2024-08-01T17:00:00Z"
+  },
+  {
+    "id": 44,
+    "origin_city": "Beijing",
+    "destination_city": "Berlin",
+    "airline": "United",
+    "available_seats": 159,
+    "ticket_price": 50,
+    "departure_time": "2024-08-11T03:00:00Z",
+    "arrival_time": "2024-08-11T05:00:00Z"
+  },
+  {
+    "id": 45,
+    "origin_city": "New York",
+    "destination_city": "Dubai",
+    "airline": "Frontier",
+    "available_seats": 151,
+    "ticket_price": 162,
+    "departure_time": "2024-08-08T10:00:00Z",
+    "arrival_time": "2024-08-08T12:00:00Z"
+  },
+  {
+    "id": 46,
+    "origin_city": "Miami",
+    "destination_city": "Berlin",
+    "airline": "United",
+    "available_seats": 101,
+    "ticket_price": 143,
+    "departure_time": "2024-08-01T22:00:00Z",
+    "arrival_time": "2024-08-02T00:00:00Z"
+  },
+  {
+    "id": 47,
+    "origin_city": "San Francisco",
+    "destination_city": "Paris",
+    "airline": "Spirit",
+    "available_seats": 99,
+    "ticket_price": 141,
+    "departure_time": "2024-08-04T12:00:00Z",
+    "arrival_time": "2024-08-04T14:00:00Z"
+  },
+  {
+    "id": 48,
+    "origin_city": "Beijing",
+    "destination_city": "San Francisco",
+    "airline": "Southwest",
+    "available_seats": 107,
+    "ticket_price": 82,
+    "departure_time": "2024-08-08T15:00:00Z",
+    "arrival_time": "2024-08-08T17:00:00Z"
+  },
+  {
+    "id": 49,
+    "origin_city": "London",
+    "destination_city": "Los Angeles",
+    "airline": "American Airlines",
+    "available_seats": 51,
+    "ticket_price": 185,
+    "departure_time": "2024-08-05T18:00:00Z",
+    "arrival_time": "2024-08-05T20:00:00Z"
+  },
+  {
+    "id": 50,
+    "origin_city": "Las Vegas",
+    "destination_city": "Tokyo",
+    "airline": "Delta",
+    "available_seats": 139,
+    "ticket_price": 120,
+    "departure_time": "2024-08-07T12:00:00Z",
+    "arrival_time": "2024-08-07T14:00:00Z"
+  },
+  {
+    "id": 51,
+    "origin_city": "Tokyo",
+    "destination_city": "Miami",
+    "airline": "Frontier",
+    "available_seats": 85,
+    "ticket_price": 128,
+    "departure_time": "2024-08-01T12:00:00Z",
+    "arrival_time": "2024-08-01T14:00:00Z"
+  },
+  {
+    "id": 52,
+    "origin_city": "Miami",
+    "destination_city": "Chicago",
+    "airline": "Delta",
+    "available_seats": 170,
+    "ticket_price": 123,
+    "departure_time": "2024-08-05T02:00:00Z",
+    "arrival_time": "2024-08-05T04:00:00Z"
+  },
+  {
+    "id": 53,
+    "origin_city": "Chicago",
+    "destination_city": "Los Angeles",
+    "airline": "Southwest",
+    "available_seats": 162,
+    "ticket_price": 159,
+    "departure_time": "2024-08-08T11:00:00Z",
+    "arrival_time": "2024-08-08T13:00:00Z"
+  },
+  {
+    "id": 54,
+    "origin_city": "San Francisco",
+    "destination_city": "Orlando",
+    "airline": "Frontier",
+    "available_seats": 63,
+    "ticket_price": 91,
+    "departure_time": "2024-08-06T16:00:00Z",
+    "arrival_time": "2024-08-06T18:00:00Z"
+  },
+  {
+    "id": 55,
+    "origin_city": "Chicago",
+    "destination_city": "Paris",
+    "airline": "United",
+    "available_seats": 140,
+    "ticket_price": 120,
+    "departure_time": "2024-08-01T10:00:00Z",
+    "arrival_time": "2024-08-01T12:00:00Z"
+  },
+  {
+    "id": 56,
+    "origin_city": "Beijing",
+    "destination_city": "London",
+    "airline": "Alaska Airlines",
+    "available_seats": 60,
+    "ticket_price": 72,
+    "departure_time": "2024-08-06T11:00:00Z",
+    "arrival_time": "2024-08-06T13:00:00Z"
+  },
+  {
+    "id": 57,
+    "origin_city": "Tokyo",
+    "destination_city": "Boston",
+    "airline": "Southwest",
+    "available_seats": 116,
+    "ticket_price": 144,
+    "departure_time": "2024-08-06T01:00:00Z",
+    "arrival_time": "2024-08-06T03:00:00Z"
+  },
+  {
+    "id": 58,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 111,
+    "ticket_price": 99,
+    "departure_time": "2024-08-01T20:00:00Z",
+    "arrival_time": "2024-08-01T22:00:00Z"
+  },
+  {
+    "id": 59,
+    "origin_city": "Paris",
+    "destination_city": "Miami",
+    "airline": "United",
+    "available_seats": 64,
+    "ticket_price": 106,
+    "departure_time": "2024-08-04T08:00:00Z",
+    "arrival_time": "2024-08-04T10:00:00Z"
+  },
+  {
+    "id": 60,
+    "origin_city": "Los Angeles",
+    "destination_city": "Sydney",
+    "airline": "Southwest",
+    "available_seats": 187,
+    "ticket_price": 124,
+    "departure_time": "2024-08-10T02:00:00Z",
+    "arrival_time": "2024-08-10T04:00:00Z"
+  },
+  {
+    "id": 61,
+    "origin_city": "Las Vegas",
+    "destination_city": "Beijing",
+    "airline": "Delta",
+    "available_seats": 53,
+    "ticket_price": 69,
+    "departure_time": "2024-08-11T07:00:00Z",
+    "arrival_time": "2024-08-11T09:00:00Z"
+  },
+  {
+    "id": 62,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Frontier",
+    "available_seats": 113,
+    "ticket_price": 158,
+    "departure_time": "2024-08-04T17:00:00Z",
+    "arrival_time": "2024-08-04T19:00:00Z"
+  },
+  {
+    "id": 63,
+    "origin_city": "Paris",
+    "destination_city": "Chicago",
+    "airline": "Spirit",
+    "available_seats": 176,
+    "ticket_price": 106,
+    "departure_time": "2024-08-06T14:00:00Z",
+    "arrival_time": "2024-08-06T16:00:00Z"
+  },
+  {
+    "id": 64,
+    "origin_city": "Chicago",
+    "destination_city": "Beijing",
+    "airline": "United",
+    "available_seats": 145,
+    "ticket_price": 54,
+    "departure_time": "2024-08-07T16:00:00Z",
+    "arrival_time": "2024-08-07T18:00:00Z"
+  },
+  {
+    "id": 65,
+    "origin_city": "San Francisco",
+    "destination_city": "Los Angeles",
+    "airline": "Spirit",
+    "available_seats": 53,
+    "ticket_price": 111,
+    "departure_time": "2024-08-10T03:00:00Z",
+    "arrival_time": "2024-08-10T05:00:00Z"
+  },
+  {
+    "id": 66,
+    "origin_city": "Chicago",
+    "destination_city": "Sydney",
+    "airline": "JetBlue",
+    "available_seats": 80,
+    "ticket_price": 146,
+    "departure_time": "2024-08-02T09:00:00Z",
+    "arrival_time": "2024-08-02T11:00:00Z"
+  },
+  {
+    "id": 67,
+    "origin_city": "Paris",
+    "destination_city": "Los Angeles",
+    "airline": "Alaska Airlines",
+    "available_seats": 60,
+    "ticket_price": 73,
+    "departure_time": "2024-08-09T17:00:00Z",
+    "arrival_time": "2024-08-09T19:00:00Z"
+  },
+  {
+    "id": 68,
+    "origin_city": "Dubai",
+    "destination_city": "Miami",
+    "airline": "Southwest",
+    "available_seats": 127,
+    "ticket_price": 176,
+    "departure_time": "2024-08-03T05:00:00Z",
+    "arrival_time": "2024-08-03T07:00:00Z"
+  },
+  {
+    "id": 69,
+    "origin_city": "Sydney",
+    "destination_city": "Los Angeles",
+    "airline": "Frontier",
+    "available_seats": 200,
+    "ticket_price": 125,
+    "departure_time": "2024-08-09T23:00:00Z",
+    "arrival_time": "2024-08-10T01:00:00Z"
+  },
+  {
+    "id": 70,
+    "origin_city": "Dubai",
+    "destination_city": "Sydney",
+    "airline": "United",
+    "available_seats": 192,
+    "ticket_price": 189,
+    "departure_time": "2024-08-11T06:00:00Z",
+    "arrival_time": "2024-08-11T08:00:00Z"
+  },
+  {
+    "id": 71,
+    "origin_city": "Paris",
+    "destination_city": "Chicago",
+    "airline": "Frontier",
+    "available_seats": 55,
+    "ticket_price": 105,
+    "departure_time": "2024-08-11T01:00:00Z",
+    "arrival_time": "2024-08-11T03:00:00Z"
+  },
+  {
+    "id": 72,
+    "origin_city": "San Francisco",
+    "destination_city": "Berlin",
+    "airline": "Alaska Airlines",
+    "available_seats": 121,
+    "ticket_price": 195,
+    "departure_time": "2024-08-02T05:00:00Z",
+    "arrival_time": "2024-08-02T07:00:00Z"
+  },
+  {
+    "id": 73,
+    "origin_city": "London",
+    "destination_city": "San Francisco",
+    "airline": "United",
+    "available_seats": 184,
+    "ticket_price": 129,
+    "departure_time": "2024-08-04T16:00:00Z",
+    "arrival_time": "2024-08-04T18:00:00Z"
+  },
+  {
+    "id": 74,
+    "origin_city": "New York",
+    "destination_city": "London",
+    "airline": "Spirit",
+    "available_seats": 117,
+    "ticket_price": 159,
+    "departure_time": "2024-08-04T03:00:00Z",
+    "arrival_time": "2024-08-04T05:00:00Z"
+  },
+  {
+    "id": 75,
+    "origin_city": "Chicago",
+    "destination_city": "Beijing",
+    "airline": "Delta",
+    "available_seats": 105,
+    "ticket_price": 187,
+    "departure_time": "2024-08-05T00:00:00Z",
+    "arrival_time": "2024-08-05T02:00:00Z"
+  },
+  {
+    "id": 76,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 62,
+    "ticket_price": 162,
+    "departure_time": "2024-08-06T16:00:00Z",
+    "arrival_time": "2024-08-06T18:00:00Z"
+  },
+  {
+    "id": 77,
+    "origin_city": "Beijing",
+    "destination_city": "Berlin",
+    "airline": "Frontier",
+    "available_seats": 181,
+    "ticket_price": 189,
+    "departure_time": "2024-08-08T08:00:00Z",
+    "arrival_time": "2024-08-08T10:00:00Z"
+  },
+  {
+    "id": 78,
+    "origin_city": "Orlando",
+    "destination_city": "Sydney",
+    "airline": "Frontier",
+    "available_seats": 73,
+    "ticket_price": 168,
+    "departure_time": "2024-08-04T15:00:00Z",
+    "arrival_time": "2024-08-04T17:00:00Z"
+  },
+  {
+    "id": 79,
+    "origin_city": "Berlin",
+    "destination_city": "Miami",
+    "airline": "Alaska Airlines",
+    "available_seats": 181,
+    "ticket_price": 81,
+    "departure_time": "2024-08-10T20:00:00Z",
+    "arrival_time": "2024-08-10T22:00:00Z"
+  },
+  {
+    "id": 80,
+    "origin_city": "Dubai",
+    "destination_city": "Los Angeles",
+    "airline": "Frontier",
+    "available_seats": 179,
+    "ticket_price": 66,
+    "departure_time": "2024-08-10T20:00:00Z",
+    "arrival_time": "2024-08-10T22:00:00Z"
+  },
+  {
+    "id": 81,
+    "origin_city": "Boston",
+    "destination_city": "Miami",
+    "airline": "Alaska Airlines",
+    "available_seats": 67,
+    "ticket_price": 70,
+    "departure_time": "2024-08-05T17:00:00Z",
+    "arrival_time": "2024-08-05T19:00:00Z"
+  },
+  {
+    "id": 82,
+    "origin_city": "Berlin",
+    "destination_city": "Boston",
+    "airline": "American Airlines",
+    "available_seats": 194,
+    "ticket_price": 68,
+    "departure_time": "2024-08-06T08:00:00Z",
+    "arrival_time": "2024-08-06T10:00:00Z"
+  },
+  {
+    "id": 83,
+    "origin_city": "San Francisco",
+    "destination_city": "Miami",
+    "airline": "JetBlue",
+    "available_seats": 135,
+    "ticket_price": 81,
+    "departure_time": "2024-08-02T21:00:00Z",
+    "arrival_time": "2024-08-02T23:00:00Z"
+  },
+  {
+    "id": 84,
+    "origin_city": "San Francisco",
+    "destination_city": "Beijing",
+    "airline": "Delta",
+    "available_seats": 123,
+    "ticket_price": 200,
+    "departure_time": "2024-08-03T18:00:00Z",
+    "arrival_time": "2024-08-03T20:00:00Z"
+  },
+  {
+    "id": 85,
+    "origin_city": "London",
+    "destination_city": "Dubai",
+    "airline": "Alaska Airlines",
+    "available_seats": 162,
+    "ticket_price": 196,
+    "departure_time": "2024-08-06T17:00:00Z",
+    "arrival_time": "2024-08-06T19:00:00Z"
+  },
+  {
+    "id": 86,
+    "origin_city": "Tokyo",
+    "destination_city": "Berlin",
+    "airline": "United",
+    "available_seats": 60,
+    "ticket_price": 187,
+    "departure_time": "2024-08-09T15:00:00Z",
+    "arrival_time": "2024-08-09T17:00:00Z"
+  },
+  {
+    "id": 87,
+    "origin_city": "Miami",
+    "destination_city": "Berlin",
+    "airline": "American Airlines",
+    "available_seats": 98,
+    "ticket_price": 143,
+    "departure_time": "2024-08-04T12:00:00Z",
+    "arrival_time": "2024-08-04T14:00:00Z"
+  },
+  {
+    "id": 88,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 60,
+    "ticket_price": 143,
+    "departure_time": "2024-08-03T22:00:00Z",
+    "arrival_time": "2024-08-04T00:00:00Z"
+  },
+  {
+    "id": 89,
+    "origin_city": "Las Vegas",
+    "destination_city": "Orlando",
+    "airline": "Southwest",
+    "available_seats": 67,
+    "ticket_price": 146,
+    "departure_time": "2024-08-09T13:00:00Z",
+    "arrival_time": "2024-08-09T15:00:00Z"
+  },
+  {
+    "id": 90,
+    "origin_city": "London",
+    "destination_city": "Boston",
+    "airline": "American Airlines",
+    "available_seats": 123,
+    "ticket_price": 200,
+    "departure_time": "2024-08-09T16:00:00Z",
+    "arrival_time": "2024-08-09T18:00:00Z"
+  },
+  {
+    "id": 91,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 100,
+    "ticket_price": 190,
+    "departure_time": "2024-08-01T20:00:00Z",
+    "arrival_time": "2024-08-01T22:00:00Z"
+  },
+  {
+    "id": 92,
+    "origin_city": "New York",
+    "destination_city": "San Francisco",
+    "airline": "Frontier",
+    "available_seats": 89,
+    "ticket_price": 71,
+    "departure_time": "2024-08-07T03:00:00Z",
+    "arrival_time": "2024-08-07T05:00:00Z"
+  },
+  {
+    "id": 93,
+    "origin_city": "San Francisco",
+    "destination_city": "Tokyo",
+    "airline": "Spirit",
+    "available_seats": 114,
+    "ticket_price": 153,
+    "departure_time": "2024-08-07T13:00:00Z",
+    "arrival_time": "2024-08-07T15:00:00Z"
+  },
+  {
+    "id": 94,
+    "origin_city": "New York",
+    "destination_city": "London",
+    "airline": "Frontier",
+    "available_seats": 86,
+    "ticket_price": 124,
+    "departure_time": "2024-08-09T23:00:00Z",
+    "arrival_time": "2024-08-10T01:00:00Z"
+  },
+  {
+    "id": 95,
+    "origin_city": "Sydney",
+    "destination_city": "Miami",
+    "airline": "American Airlines",
+    "available_seats": 118,
+    "ticket_price": 173,
+    "departure_time": "2024-08-01T23:00:00Z",
+    "arrival_time": "2024-08-02T01:00:00Z"
+  },
+  {
+    "id": 96,
+    "origin_city": "Miami",
+    "destination_city": "London",
+    "airline": "Alaska Airlines",
+    "available_seats": 154,
+    "ticket_price": 179,
+    "departure_time": "2024-08-06T12:00:00Z",
+    "arrival_time": "2024-08-06T14:00:00Z"
+  },
+  {
+    "id": 97,
+    "origin_city": "San Francisco",
+    "destination_city": "Berlin",
+    "airline": "Frontier",
+    "available_seats": 179,
+    "ticket_price": 131,
+    "departure_time": "2024-08-01T16:00:00Z",
+    "arrival_time": "2024-08-01T18:00:00Z"
+  },
+  {
+    "id": 98,
+    "origin_city": "Chicago",
+    "destination_city": "Los Angeles",
+    "airline": "Southwest",
+    "available_seats": 166,
+    "ticket_price": 170,
+    "departure_time": "2024-08-03T20:00:00Z",
+    "arrival_time": "2024-08-03T22:00:00Z"
+  },
+  {
+    "id": 99,
+    "origin_city": "Miami",
+    "destination_city": "Boston",
+    "airline": "United",
+    "available_seats": 84,
+    "ticket_price": 117,
+    "departure_time": "2024-08-08T02:00:00Z",
+    "arrival_time": "2024-08-08T04:00:00Z"
+  },
+  {
+    "id": 100,
+    "origin_city": "Miami",
+    "destination_city": "San Francisco",
+    "airline": "Southwest",
+    "available_seats": 163,
+    "ticket_price": 87,
+    "departure_time": "2024-08-09T05:00:00Z",
+    "arrival_time": "2024-08-09T07:00:00Z"
+  },
+  {
+    "id": 1126,
+    "origin_city": "London",
+    "destination_city": "Beijing",
+    "airline": "Delta",
+    "available_seats": 132,
+    "ticket_price": 131,
+    "departure_time": "2024-08-19T09:00:00.000Z",
+    "arrival_time": "10:00:00.000Z"
+  },
+  {
+    "id": 7559,
+    "origin_city": "London",
+    "destination_city": "Beijing",
+    "airline": "United",
+    "available_seats": 225,
+    "ticket_price": 63,
+    "departure_time": "2024-08-19T11:00:00.000Z",
+    "arrival_time": "12:00:00.000Z"
+  },
+  {
+    "id": 8106,
+    "origin_city": "London",
+    "destination_city": "Beijing",
+    "airline": "Southwest",
+    "available_seats": 139,
+    "ticket_price": 145,
+    "departure_time": "2024-08-19T13:00:00.000Z",
+    "arrival_time": "14:00:00.000Z"
+  },
+  {
+    "id": 658,
+    "origin_city": "London",
+    "destination_city": "Beijing",
+    "airline": "Alaska Airlines",
+    "available_seats": 192,
+    "ticket_price": 55,
+    "departure_time": "2024-08-19T15:00:00.000Z",
+    "arrival_time": "17:00:00.000Z"
+  },
+  {
+    "id": 4596,
+    "origin_city": "London",
+    "destination_city": "Beijing",
+    "airline": "American Airlines",
+    "available_seats": 110,
+    "ticket_price": 77,
+    "departure_time": "2024-08-19T17:00:00.000Z",
+    "arrival_time": "19:00:00.000Z"
+  },
+  {
+    "id": 7258,
+    "origin_city": "London",
+    "destination_city": "Beijing",
+    "airline": "JetBlue",
+    "available_seats": 243,
+    "ticket_price": 55,
+    "departure_time": "2024-08-19T19:00:00.000Z",
+    "arrival_time": "20:00:00.000Z"
+  },
+  {
+    "id": 6788,
+    "origin_city": "London",
+    "destination_city": "Beijing",
+    "airline": "Spirit",
+    "available_seats": 66,
+    "ticket_price": 88,
+    "departure_time": "2024-08-19T21:00:00.000Z",
+    "arrival_time": "23:00:00.000Z"
+  },
+  {
+    "id": 4634,
+    "origin_city": "London",
+    "destination_city": "Beijing",
+    "airline": "Frontier",
+    "available_seats": 214,
+    "ticket_price": 121,
+    "departure_time": "2024-08-19T23:00:00.000Z",
+    "arrival_time": "01:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 222,
+    "ticket_price": 93,
+    "departure_time": "2024-08-14T00:00:00.000Z",
+    "arrival_time": "2024-08-14T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 242,
+    "ticket_price": 51,
+    "departure_time": "2024-08-14T02:00:00.000Z",
+    "arrival_time": "2024-08-14T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 124,
+    "ticket_price": 122,
+    "departure_time": "2024-08-14T04:00:00.000Z",
+    "arrival_time": "2024-08-14T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 172,
+    "ticket_price": 58,
+    "departure_time": "2024-08-14T06:00:00.000Z",
+    "arrival_time": "2024-08-14T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 50,
+    "ticket_price": 95,
+    "departure_time": "2024-08-14T08:00:00.000Z",
+    "arrival_time": "2024-08-14T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 124,
+    "ticket_price": 117,
+    "departure_time": "2024-08-14T10:00:00.000Z",
+    "arrival_time": "2024-08-14T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 104,
+    "ticket_price": 93,
+    "departure_time": "2024-08-14T12:00:00.000Z",
+    "arrival_time": "2024-08-14T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 65,
+    "ticket_price": 142,
+    "departure_time": "2024-08-14T14:00:00.000Z",
+    "arrival_time": "2024-08-14T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 75,
+    "ticket_price": 85,
+    "departure_time": "2024-08-16T00:00:00.000Z",
+    "arrival_time": "2024-08-16T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 70,
+    "ticket_price": 133,
+    "departure_time": "2024-08-16T02:00:00.000Z",
+    "arrival_time": "2024-08-16T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 128,
+    "ticket_price": 53,
+    "departure_time": "2024-08-16T04:00:00.000Z",
+    "arrival_time": "2024-08-16T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 117,
+    "ticket_price": 97,
+    "departure_time": "2024-08-16T06:00:00.000Z",
+    "arrival_time": "2024-08-16T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 58,
+    "ticket_price": 128,
+    "departure_time": "2024-08-16T08:00:00.000Z",
+    "arrival_time": "2024-08-16T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 228,
+    "ticket_price": 61,
+    "departure_time": "2024-08-16T10:00:00.000Z",
+    "arrival_time": "2024-08-16T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 148,
+    "ticket_price": 53,
+    "departure_time": "2024-08-16T12:00:00.000Z",
+    "arrival_time": "2024-08-16T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 157,
+    "ticket_price": 139,
+    "departure_time": "2024-08-16T14:00:00.000Z",
+    "arrival_time": "2024-08-16T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Delta",
+    "available_seats": 101,
+    "ticket_price": 59,
+    "departure_time": "2024-08-23T00:00:00.000Z",
+    "arrival_time": "2024-08-23T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "United",
+    "available_seats": 124,
+    "ticket_price": 106,
+    "departure_time": "2024-08-23T02:00:00.000Z",
+    "arrival_time": "2024-08-23T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Southwest",
+    "available_seats": 231,
+    "ticket_price": 121,
+    "departure_time": "2024-08-23T04:00:00.000Z",
+    "arrival_time": "2024-08-23T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Alaska Airlines",
+    "available_seats": 83,
+    "ticket_price": 55,
+    "departure_time": "2024-08-23T06:00:00.000Z",
+    "arrival_time": "2024-08-23T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "American Airlines",
+    "available_seats": 215,
+    "ticket_price": 71,
+    "departure_time": "2024-08-23T08:00:00.000Z",
+    "arrival_time": "2024-08-23T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "JetBlue",
+    "available_seats": 145,
+    "ticket_price": 66,
+    "departure_time": "2024-08-23T10:00:00.000Z",
+    "arrival_time": "2024-08-23T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Spirit",
+    "available_seats": 169,
+    "ticket_price": 95,
+    "departure_time": "2024-08-23T12:00:00.000Z",
+    "arrival_time": "2024-08-23T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Frontier",
+    "available_seats": 178,
+    "ticket_price": 52,
+    "departure_time": "2024-08-23T14:00:00.000Z",
+    "arrival_time": "2024-08-23T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 158,
+    "ticket_price": 58,
+    "departure_time": "2024-07-31T00:00:00.000Z",
+    "arrival_time": "2024-07-31T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 240,
+    "ticket_price": 50,
+    "departure_time": "2024-07-31T02:00:00.000Z",
+    "arrival_time": "2024-07-31T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 80,
+    "ticket_price": 114,
+    "departure_time": "2024-07-31T04:00:00.000Z",
+    "arrival_time": "2024-07-31T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 88,
+    "ticket_price": 98,
+    "departure_time": "2024-07-31T06:00:00.000Z",
+    "arrival_time": "2024-07-31T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 216,
+    "ticket_price": 68,
+    "departure_time": "2024-07-31T08:00:00.000Z",
+    "arrival_time": "2024-07-31T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 56,
+    "ticket_price": 71,
+    "departure_time": "2024-07-31T10:00:00.000Z",
+    "arrival_time": "2024-07-31T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 188,
+    "ticket_price": 111,
+    "departure_time": "2024-07-31T12:00:00.000Z",
+    "arrival_time": "2024-07-31T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 197,
+    "ticket_price": 94,
+    "departure_time": "2024-07-31T14:00:00.000Z",
+    "arrival_time": "2024-07-31T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 85,
+    "ticket_price": 142,
+    "departure_time": "2024-08-01T00:00:00.000Z",
+    "arrival_time": "2024-08-01T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 74,
+    "ticket_price": 64,
+    "departure_time": "2024-08-01T02:00:00.000Z",
+    "arrival_time": "2024-08-01T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 125,
+    "ticket_price": 88,
+    "departure_time": "2024-08-01T04:00:00.000Z",
+    "arrival_time": "2024-08-01T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 57,
+    "ticket_price": 82,
+    "departure_time": "2024-08-01T06:00:00.000Z",
+    "arrival_time": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 193,
+    "ticket_price": 58,
+    "departure_time": "2024-08-01T08:00:00.000Z",
+    "arrival_time": "2024-08-01T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 145,
+    "ticket_price": 88,
+    "departure_time": "2024-08-01T10:00:00.000Z",
+    "arrival_time": "2024-08-01T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 216,
+    "ticket_price": 67,
+    "departure_time": "2024-08-01T12:00:00.000Z",
+    "arrival_time": "2024-08-01T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 185,
+    "ticket_price": 130,
+    "departure_time": "2024-08-01T14:00:00.000Z",
+    "arrival_time": "2024-08-01T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 56,
+    "ticket_price": 82,
+    "departure_time": "2024-08-14T00:00:00.000Z",
+    "arrival_time": "2024-08-14T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 112,
+    "ticket_price": 60,
+    "departure_time": "2024-08-14T02:00:00.000Z",
+    "arrival_time": "2024-08-14T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 198,
+    "ticket_price": 59,
+    "departure_time": "2024-08-14T04:00:00.000Z",
+    "arrival_time": "2024-08-14T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 182,
+    "ticket_price": 145,
+    "departure_time": "2024-08-14T06:00:00.000Z",
+    "arrival_time": "2024-08-14T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 204,
+    "ticket_price": 117,
+    "departure_time": "2024-08-14T08:00:00.000Z",
+    "arrival_time": "2024-08-14T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 92,
+    "ticket_price": 53,
+    "departure_time": "2024-08-14T10:00:00.000Z",
+    "arrival_time": "2024-08-14T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 246,
+    "ticket_price": 108,
+    "departure_time": "2024-08-14T12:00:00.000Z",
+    "arrival_time": "2024-08-14T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 224,
+    "ticket_price": 128,
+    "departure_time": "2024-08-14T14:00:00.000Z",
+    "arrival_time": "2024-08-14T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 227,
+    "ticket_price": 95,
+    "departure_time": "2024-08-08T00:00:00.000Z",
+    "arrival_time": "2024-08-08T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 215,
+    "ticket_price": 143,
+    "departure_time": "2024-08-08T02:00:00.000Z",
+    "arrival_time": "2024-08-08T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 171,
+    "ticket_price": 99,
+    "departure_time": "2024-08-08T04:00:00.000Z",
+    "arrival_time": "2024-08-08T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 203,
+    "ticket_price": 131,
+    "departure_time": "2024-08-08T06:00:00.000Z",
+    "arrival_time": "2024-08-08T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 58,
+    "ticket_price": 78,
+    "departure_time": "2024-08-08T08:00:00.000Z",
+    "arrival_time": "2024-08-08T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 121,
+    "ticket_price": 102,
+    "departure_time": "2024-08-08T10:00:00.000Z",
+    "arrival_time": "2024-08-08T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 62,
+    "ticket_price": 98,
+    "departure_time": "2024-08-08T12:00:00.000Z",
+    "arrival_time": "2024-08-08T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 191,
+    "ticket_price": 125,
+    "departure_time": "2024-08-08T14:00:00.000Z",
+    "arrival_time": "2024-08-08T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 232,
+    "ticket_price": 85,
+    "departure_time": "0012-12-12T00:00:00.000Z",
+    "arrival_time": "0012-12-12T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 70,
+    "ticket_price": 140,
+    "departure_time": "0012-12-12T02:00:00.000Z",
+    "arrival_time": "0012-12-12T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 134,
+    "ticket_price": 97,
+    "departure_time": "0012-12-12T04:00:00.000Z",
+    "arrival_time": "0012-12-12T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 198,
+    "ticket_price": 54,
+    "departure_time": "0012-12-12T06:00:00.000Z",
+    "arrival_time": "0012-12-12T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 100,
+    "ticket_price": 135,
+    "departure_time": "0012-12-12T08:00:00.000Z",
+    "arrival_time": "0012-12-12T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 239,
+    "ticket_price": 61,
+    "departure_time": "0012-12-12T10:00:00.000Z",
+    "arrival_time": "0012-12-12T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 156,
+    "ticket_price": 76,
+    "departure_time": "0012-12-12T12:00:00.000Z",
+    "arrival_time": "0012-12-12T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 70,
+    "ticket_price": 62,
+    "departure_time": "0012-12-12T14:00:00.000Z",
+    "arrival_time": "0012-12-12T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 107,
+    "ticket_price": 68,
+    "departure_time": "0352-12-12T00:00:00.000Z",
+    "arrival_time": "0352-12-12T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 227,
+    "ticket_price": 119,
+    "departure_time": "0352-12-12T02:00:00.000Z",
+    "arrival_time": "0352-12-12T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 191,
+    "ticket_price": 65,
+    "departure_time": "0352-12-12T04:00:00.000Z",
+    "arrival_time": "0352-12-12T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 68,
+    "ticket_price": 103,
+    "departure_time": "0352-12-12T06:00:00.000Z",
+    "arrival_time": "0352-12-12T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 115,
+    "ticket_price": 107,
+    "departure_time": "0352-12-12T08:00:00.000Z",
+    "arrival_time": "0352-12-12T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 202,
+    "ticket_price": 84,
+    "departure_time": "0352-12-12T10:00:00.000Z",
+    "arrival_time": "0352-12-12T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 200,
+    "ticket_price": 96,
+    "departure_time": "0352-12-12T12:00:00.000Z",
+    "arrival_time": "0352-12-12T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 188,
+    "ticket_price": 78,
+    "departure_time": "0352-12-12T14:00:00.000Z",
+    "arrival_time": "0352-12-12T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 171,
+    "ticket_price": 134,
+    "departure_time": "2024-08-15T00:00:00.000Z",
+    "arrival_time": "2024-08-15T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 226,
+    "ticket_price": 113,
+    "departure_time": "2024-08-15T02:00:00.000Z",
+    "arrival_time": "2024-08-15T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 238,
+    "ticket_price": 80,
+    "departure_time": "2024-08-15T04:00:00.000Z",
+    "arrival_time": "2024-08-15T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 114,
+    "ticket_price": 62,
+    "departure_time": "2024-08-15T06:00:00.000Z",
+    "arrival_time": "2024-08-15T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 149,
+    "ticket_price": 107,
+    "departure_time": "2024-08-15T08:00:00.000Z",
+    "arrival_time": "2024-08-15T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 242,
+    "ticket_price": 93,
+    "departure_time": "2024-08-15T10:00:00.000Z",
+    "arrival_time": "2024-08-15T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 67,
+    "ticket_price": 135,
+    "departure_time": "2024-08-15T12:00:00.000Z",
+    "arrival_time": "2024-08-15T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 158,
+    "ticket_price": 106,
+    "departure_time": "2024-08-15T14:00:00.000Z",
+    "arrival_time": "2024-08-15T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 195,
+    "ticket_price": 65,
+    "departure_time": "2024-08-22T00:00:00.000Z",
+    "arrival_time": "2024-08-22T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 249,
+    "ticket_price": 86,
+    "departure_time": "2024-08-22T02:00:00.000Z",
+    "arrival_time": "2024-08-22T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 121,
+    "ticket_price": 92,
+    "departure_time": "2024-08-22T04:00:00.000Z",
+    "arrival_time": "2024-08-22T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 103,
+    "ticket_price": 107,
+    "departure_time": "2024-08-22T06:00:00.000Z",
+    "arrival_time": "2024-08-22T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 58,
+    "ticket_price": 88,
+    "departure_time": "2024-08-22T08:00:00.000Z",
+    "arrival_time": "2024-08-22T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 183,
+    "ticket_price": 119,
+    "departure_time": "2024-08-22T10:00:00.000Z",
+    "arrival_time": "2024-08-22T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 227,
+    "ticket_price": 107,
+    "departure_time": "2024-08-22T12:00:00.000Z",
+    "arrival_time": "2024-08-22T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 100,
+    "ticket_price": 59,
+    "departure_time": "2024-08-22T14:00:00.000Z",
+    "arrival_time": "2024-08-22T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 143,
+    "ticket_price": 85,
+    "departure_time": "2024-08-07T00:00:00.000Z",
+    "arrival_time": "2024-08-07T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 139,
+    "ticket_price": 117,
+    "departure_time": "2024-08-07T02:00:00.000Z",
+    "arrival_time": "2024-08-07T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 184,
+    "ticket_price": 137,
+    "departure_time": "2024-08-07T04:00:00.000Z",
+    "arrival_time": "2024-08-07T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 213,
+    "ticket_price": 74,
+    "departure_time": "2024-08-07T06:00:00.000Z",
+    "arrival_time": "2024-08-07T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 145,
+    "ticket_price": 105,
+    "departure_time": "2024-08-07T08:00:00.000Z",
+    "arrival_time": "2024-08-07T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 147,
+    "ticket_price": 99,
+    "departure_time": "2024-08-07T10:00:00.000Z",
+    "arrival_time": "2024-08-07T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 96,
+    "ticket_price": 90,
+    "departure_time": "2024-08-07T12:00:00.000Z",
+    "arrival_time": "2024-08-07T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 160,
+    "ticket_price": 85,
+    "departure_time": "2024-08-07T14:00:00.000Z",
+    "arrival_time": "2024-08-07T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 74,
+    "ticket_price": 53,
+    "departure_time": "2024-08-06T00:00:00.000Z",
+    "arrival_time": "2024-08-06T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 206,
+    "ticket_price": 140,
+    "departure_time": "2024-08-06T02:00:00.000Z",
+    "arrival_time": "2024-08-06T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 219,
+    "ticket_price": 61,
+    "departure_time": "2024-08-06T04:00:00.000Z",
+    "arrival_time": "2024-08-06T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 138,
+    "ticket_price": 117,
+    "departure_time": "2024-08-06T06:00:00.000Z",
+    "arrival_time": "2024-08-06T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 201,
+    "ticket_price": 136,
+    "departure_time": "2024-08-06T08:00:00.000Z",
+    "arrival_time": "2024-08-06T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 119,
+    "ticket_price": 52,
+    "departure_time": "2024-08-06T10:00:00.000Z",
+    "arrival_time": "2024-08-06T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 133,
+    "ticket_price": 55,
+    "departure_time": "2024-08-06T12:00:00.000Z",
+    "arrival_time": "2024-08-06T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 82,
+    "ticket_price": 50,
+    "departure_time": "2024-08-06T14:00:00.000Z",
+    "arrival_time": "2024-08-06T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 150,
+    "ticket_price": 61,
+    "departure_time": "2024-08-08T00:00:00.000Z",
+    "arrival_time": "2024-08-08T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 76,
+    "ticket_price": 133,
+    "departure_time": "2024-08-08T02:00:00.000Z",
+    "arrival_time": "2024-08-08T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 164,
+    "ticket_price": 97,
+    "departure_time": "2024-08-08T04:00:00.000Z",
+    "arrival_time": "2024-08-08T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 96,
+    "ticket_price": 128,
+    "departure_time": "2024-08-08T06:00:00.000Z",
+    "arrival_time": "2024-08-08T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 50,
+    "ticket_price": 143,
+    "departure_time": "2024-08-08T08:00:00.000Z",
+    "arrival_time": "2024-08-08T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 63,
+    "ticket_price": 137,
+    "departure_time": "2024-08-08T10:00:00.000Z",
+    "arrival_time": "2024-08-08T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 77,
+    "ticket_price": 104,
+    "departure_time": "2024-08-08T12:00:00.000Z",
+    "arrival_time": "2024-08-08T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 128,
+    "ticket_price": 103,
+    "departure_time": "2024-08-08T14:00:00.000Z",
+    "arrival_time": "2024-08-08T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Miami",
+    "airline": "Delta",
+    "available_seats": 127,
+    "ticket_price": 88,
+    "departure_time": "2024-08-21T00:00:00.000Z",
+    "arrival_time": "2024-08-21T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Miami",
+    "airline": "United",
+    "available_seats": 141,
+    "ticket_price": 97,
+    "departure_time": "2024-08-21T02:00:00.000Z",
+    "arrival_time": "2024-08-21T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Miami",
+    "airline": "Southwest",
+    "available_seats": 209,
+    "ticket_price": 102,
+    "departure_time": "2024-08-21T04:00:00.000Z",
+    "arrival_time": "2024-08-21T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Miami",
+    "airline": "Alaska Airlines",
+    "available_seats": 171,
+    "ticket_price": 115,
+    "departure_time": "2024-08-21T06:00:00.000Z",
+    "arrival_time": "2024-08-21T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Miami",
+    "airline": "American Airlines",
+    "available_seats": 173,
+    "ticket_price": 113,
+    "departure_time": "2024-08-21T08:00:00.000Z",
+    "arrival_time": "2024-08-21T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Miami",
+    "airline": "JetBlue",
+    "available_seats": 207,
+    "ticket_price": 135,
+    "departure_time": "2024-08-21T10:00:00.000Z",
+    "arrival_time": "2024-08-21T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Miami",
+    "airline": "Spirit",
+    "available_seats": 187,
+    "ticket_price": 123,
+    "departure_time": "2024-08-21T12:00:00.000Z",
+    "arrival_time": "2024-08-21T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Miami",
+    "airline": "Frontier",
+    "available_seats": 123,
+    "ticket_price": 86,
+    "departure_time": "2024-08-21T14:00:00.000Z",
+    "arrival_time": "2024-08-21T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 206,
+    "ticket_price": 142,
+    "departure_time": "2024-08-28T00:00:00.000Z",
+    "arrival_time": "2024-08-28T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 75,
+    "ticket_price": 51,
+    "departure_time": "2024-08-28T02:00:00.000Z",
+    "arrival_time": "2024-08-28T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 117,
+    "ticket_price": 145,
+    "departure_time": "2024-08-28T04:00:00.000Z",
+    "arrival_time": "2024-08-28T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 162,
+    "ticket_price": 60,
+    "departure_time": "2024-08-28T06:00:00.000Z",
+    "arrival_time": "2024-08-28T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 225,
+    "ticket_price": 94,
+    "departure_time": "2024-08-28T08:00:00.000Z",
+    "arrival_time": "2024-08-28T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 119,
+    "ticket_price": 108,
+    "departure_time": "2024-08-28T10:00:00.000Z",
+    "arrival_time": "2024-08-28T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 240,
+    "ticket_price": 123,
+    "departure_time": "2024-08-28T12:00:00.000Z",
+    "arrival_time": "2024-08-28T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 75,
+    "ticket_price": 88,
+    "departure_time": "2024-08-28T14:00:00.000Z",
+    "arrival_time": "2024-08-28T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 99,
+    "ticket_price": 108,
+    "departure_time": "2024-08-16T00:00:00.000Z",
+    "arrival_time": "2024-08-16T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 144,
+    "ticket_price": 128,
+    "departure_time": "2024-08-16T02:00:00.000Z",
+    "arrival_time": "2024-08-16T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 135,
+    "ticket_price": 112,
+    "departure_time": "2024-08-16T04:00:00.000Z",
+    "arrival_time": "2024-08-16T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 221,
+    "ticket_price": 109,
+    "departure_time": "2024-08-16T06:00:00.000Z",
+    "arrival_time": "2024-08-16T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 169,
+    "ticket_price": 127,
+    "departure_time": "2024-08-16T08:00:00.000Z",
+    "arrival_time": "2024-08-16T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 117,
+    "ticket_price": 116,
+    "departure_time": "2024-08-16T10:00:00.000Z",
+    "arrival_time": "2024-08-16T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 220,
+    "ticket_price": 65,
+    "departure_time": "2024-08-16T12:00:00.000Z",
+    "arrival_time": "2024-08-16T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 56,
+    "ticket_price": 141,
+    "departure_time": "2024-08-16T14:00:00.000Z",
+    "arrival_time": "2024-08-16T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 105,
+    "ticket_price": 141,
+    "departure_time": "2024-08-23T00:00:00.000Z",
+    "arrival_time": "2024-08-23T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 158,
+    "ticket_price": 81,
+    "departure_time": "2024-08-23T02:00:00.000Z",
+    "arrival_time": "2024-08-23T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 74,
+    "ticket_price": 87,
+    "departure_time": "2024-08-23T04:00:00.000Z",
+    "arrival_time": "2024-08-23T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 192,
+    "ticket_price": 52,
+    "departure_time": "2024-08-23T06:00:00.000Z",
+    "arrival_time": "2024-08-23T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 110,
+    "ticket_price": 128,
+    "departure_time": "2024-08-23T08:00:00.000Z",
+    "arrival_time": "2024-08-23T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 188,
+    "ticket_price": 77,
+    "departure_time": "2024-08-23T10:00:00.000Z",
+    "arrival_time": "2024-08-23T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 126,
+    "ticket_price": 107,
+    "departure_time": "2024-08-23T12:00:00.000Z",
+    "arrival_time": "2024-08-23T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 106,
+    "ticket_price": 54,
+    "departure_time": "2024-08-23T14:00:00.000Z",
+    "arrival_time": "2024-08-23T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 116,
+    "ticket_price": 51,
+    "departure_time": "0031-12-12T00:00:00.000Z",
+    "arrival_time": "0031-12-12T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 172,
+    "ticket_price": 102,
+    "departure_time": "0031-12-12T02:00:00.000Z",
+    "arrival_time": "0031-12-12T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 158,
+    "ticket_price": 58,
+    "departure_time": "0031-12-12T04:00:00.000Z",
+    "arrival_time": "0031-12-12T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 78,
+    "ticket_price": 90,
+    "departure_time": "0031-12-12T06:00:00.000Z",
+    "arrival_time": "0031-12-12T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 202,
+    "ticket_price": 135,
+    "departure_time": "0031-12-12T08:00:00.000Z",
+    "arrival_time": "0031-12-12T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 220,
+    "ticket_price": 117,
+    "departure_time": "0031-12-12T10:00:00.000Z",
+    "arrival_time": "0031-12-12T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 112,
+    "ticket_price": 75,
+    "departure_time": "0031-12-12T12:00:00.000Z",
+    "arrival_time": "0031-12-12T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 89,
+    "ticket_price": 108,
+    "departure_time": "0031-12-12T14:00:00.000Z",
+    "arrival_time": "0031-12-12T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 194,
+    "ticket_price": 102,
+    "departure_time": "2024-08-28T00:00:00.000Z",
+    "arrival_time": "2024-08-28T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 115,
+    "ticket_price": 117,
+    "departure_time": "2024-08-28T02:00:00.000Z",
+    "arrival_time": "2024-08-28T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 102,
+    "ticket_price": 105,
+    "departure_time": "2024-08-28T04:00:00.000Z",
+    "arrival_time": "2024-08-28T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 184,
+    "ticket_price": 143,
+    "departure_time": "2024-08-28T06:00:00.000Z",
+    "arrival_time": "2024-08-28T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 239,
+    "ticket_price": 100,
+    "departure_time": "2024-08-28T08:00:00.000Z",
+    "arrival_time": "2024-08-28T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 89,
+    "ticket_price": 106,
+    "departure_time": "2024-08-28T10:00:00.000Z",
+    "arrival_time": "2024-08-28T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 228,
+    "ticket_price": 96,
+    "departure_time": "2024-08-28T12:00:00.000Z",
+    "arrival_time": "2024-08-28T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 201,
+    "ticket_price": 91,
+    "departure_time": "2024-08-28T14:00:00.000Z",
+    "arrival_time": "2024-08-28T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 224,
+    "ticket_price": 141,
+    "departure_time": "2024-08-16T00:00:00.000Z",
+    "arrival_time": "2024-08-16T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 217,
+    "ticket_price": 60,
+    "departure_time": "2024-08-16T02:00:00.000Z",
+    "arrival_time": "2024-08-16T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 175,
+    "ticket_price": 114,
+    "departure_time": "2024-08-16T04:00:00.000Z",
+    "arrival_time": "2024-08-16T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 180,
+    "ticket_price": 94,
+    "departure_time": "2024-08-16T06:00:00.000Z",
+    "arrival_time": "2024-08-16T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 84,
+    "ticket_price": 61,
+    "departure_time": "2024-08-16T08:00:00.000Z",
+    "arrival_time": "2024-08-16T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 184,
+    "ticket_price": 109,
+    "departure_time": "2024-08-16T10:00:00.000Z",
+    "arrival_time": "2024-08-16T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 136,
+    "ticket_price": 95,
+    "departure_time": "2024-08-16T12:00:00.000Z",
+    "arrival_time": "2024-08-16T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 52,
+    "ticket_price": 111,
+    "departure_time": "2024-08-16T14:00:00.000Z",
+    "arrival_time": "2024-08-16T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 193,
+    "ticket_price": 107,
+    "departure_time": "2024-08-14T00:00:00.000Z",
+    "arrival_time": "2024-08-14T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 139,
+    "ticket_price": 94,
+    "departure_time": "2024-08-14T02:00:00.000Z",
+    "arrival_time": "2024-08-14T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 51,
+    "ticket_price": 68,
+    "departure_time": "2024-08-14T04:00:00.000Z",
+    "arrival_time": "2024-08-14T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 157,
+    "ticket_price": 117,
+    "departure_time": "2024-08-14T06:00:00.000Z",
+    "arrival_time": "2024-08-14T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 121,
+    "ticket_price": 99,
+    "departure_time": "2024-08-14T08:00:00.000Z",
+    "arrival_time": "2024-08-14T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 104,
+    "ticket_price": 69,
+    "departure_time": "2024-08-14T10:00:00.000Z",
+    "arrival_time": "2024-08-14T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 69,
+    "ticket_price": 60,
+    "departure_time": "2024-08-14T12:00:00.000Z",
+    "arrival_time": "2024-08-14T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 69,
+    "ticket_price": 85,
+    "departure_time": "2024-08-14T14:00:00.000Z",
+    "arrival_time": "2024-08-14T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 243,
+    "ticket_price": 96,
+    "departure_time": "2024-07-30T00:00:00.000Z",
+    "arrival_time": "2024-07-30T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 57,
+    "ticket_price": 90,
+    "departure_time": "2024-07-30T02:00:00.000Z",
+    "arrival_time": "2024-07-30T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 231,
+    "ticket_price": 57,
+    "departure_time": "2024-07-30T04:00:00.000Z",
+    "arrival_time": "2024-07-30T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 140,
+    "ticket_price": 93,
+    "departure_time": "2024-07-30T06:00:00.000Z",
+    "arrival_time": "2024-07-30T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 235,
+    "ticket_price": 137,
+    "departure_time": "2024-07-30T08:00:00.000Z",
+    "arrival_time": "2024-07-30T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 145,
+    "ticket_price": 69,
+    "departure_time": "2024-07-30T10:00:00.000Z",
+    "arrival_time": "2024-07-30T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 244,
+    "ticket_price": 95,
+    "departure_time": "2024-07-30T12:00:00.000Z",
+    "arrival_time": "2024-07-30T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 147,
+    "ticket_price": 80,
+    "departure_time": "2024-07-30T14:00:00.000Z",
+    "arrival_time": "2024-07-30T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 82,
+    "ticket_price": 88,
+    "departure_time": "2024-08-21T00:00:00.000Z",
+    "arrival_time": "2024-08-21T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 91,
+    "ticket_price": 82,
+    "departure_time": "2024-08-21T02:00:00.000Z",
+    "arrival_time": "2024-08-21T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 86,
+    "ticket_price": 124,
+    "departure_time": "2024-08-21T04:00:00.000Z",
+    "arrival_time": "2024-08-21T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 100,
+    "ticket_price": 106,
+    "departure_time": "2024-08-21T06:00:00.000Z",
+    "arrival_time": "2024-08-21T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 179,
+    "ticket_price": 138,
+    "departure_time": "2024-08-21T08:00:00.000Z",
+    "arrival_time": "2024-08-21T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 59,
+    "ticket_price": 56,
+    "departure_time": "2024-08-21T10:00:00.000Z",
+    "arrival_time": "2024-08-21T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 72,
+    "ticket_price": 81,
+    "departure_time": "2024-08-21T12:00:00.000Z",
+    "arrival_time": "2024-08-21T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 169,
+    "ticket_price": 53,
+    "departure_time": "2024-08-21T14:00:00.000Z",
+    "arrival_time": "2024-08-21T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Phoenix",
+    "destination_city": "Miami",
+    "airline": "Delta",
+    "available_seats": 183,
+    "ticket_price": 126,
+    "departure_time": "2024-08-22T00:00:00.000Z",
+    "arrival_time": "2024-08-22T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Phoenix",
+    "destination_city": "Miami",
+    "airline": "United",
+    "available_seats": 139,
+    "ticket_price": 92,
+    "departure_time": "2024-08-22T02:00:00.000Z",
+    "arrival_time": "2024-08-22T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Phoenix",
+    "destination_city": "Miami",
+    "airline": "Southwest",
+    "available_seats": 61,
+    "ticket_price": 52,
+    "departure_time": "2024-08-22T04:00:00.000Z",
+    "arrival_time": "2024-08-22T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Phoenix",
+    "destination_city": "Miami",
+    "airline": "Alaska Airlines",
+    "available_seats": 110,
+    "ticket_price": 95,
+    "departure_time": "2024-08-22T06:00:00.000Z",
+    "arrival_time": "2024-08-22T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Phoenix",
+    "destination_city": "Miami",
+    "airline": "American Airlines",
+    "available_seats": 72,
+    "ticket_price": 68,
+    "departure_time": "2024-08-22T08:00:00.000Z",
+    "arrival_time": "2024-08-22T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Phoenix",
+    "destination_city": "Miami",
+    "airline": "JetBlue",
+    "available_seats": 148,
+    "ticket_price": 120,
+    "departure_time": "2024-08-22T10:00:00.000Z",
+    "arrival_time": "2024-08-22T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Phoenix",
+    "destination_city": "Miami",
+    "airline": "Spirit",
+    "available_seats": 56,
+    "ticket_price": 82,
+    "departure_time": "2024-08-22T12:00:00.000Z",
+    "arrival_time": "2024-08-22T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Phoenix",
+    "destination_city": "Miami",
+    "airline": "Frontier",
+    "available_seats": 179,
+    "ticket_price": 142,
+    "departure_time": "2024-08-22T14:00:00.000Z",
+    "arrival_time": "2024-08-22T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 130,
+    "ticket_price": 80,
+    "departure_time": "2024-08-15T00:00:00.000Z",
+    "arrival_time": "2024-08-15T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 79,
+    "ticket_price": 66,
+    "departure_time": "2024-08-15T02:00:00.000Z",
+    "arrival_time": "2024-08-15T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 152,
+    "ticket_price": 147,
+    "departure_time": "2024-08-15T04:00:00.000Z",
+    "arrival_time": "2024-08-15T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 242,
+    "ticket_price": 127,
+    "departure_time": "2024-08-15T06:00:00.000Z",
+    "arrival_time": "2024-08-15T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 173,
+    "ticket_price": 120,
+    "departure_time": "2024-08-15T08:00:00.000Z",
+    "arrival_time": "2024-08-15T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 230,
+    "ticket_price": 54,
+    "departure_time": "2024-08-15T10:00:00.000Z",
+    "arrival_time": "2024-08-15T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 244,
+    "ticket_price": 53,
+    "departure_time": "2024-08-15T12:00:00.000Z",
+    "arrival_time": "2024-08-15T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 134,
+    "ticket_price": 52,
+    "departure_time": "2024-08-15T14:00:00.000Z",
+    "arrival_time": "2024-08-15T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Delta",
+    "available_seats": 188,
+    "ticket_price": 149,
+    "departure_time": "2024-08-15T00:00:00.000Z",
+    "arrival_time": "2024-08-15T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "United",
+    "available_seats": 108,
+    "ticket_price": 132,
+    "departure_time": "2024-08-15T02:00:00.000Z",
+    "arrival_time": "2024-08-15T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Southwest",
+    "available_seats": 158,
+    "ticket_price": 65,
+    "departure_time": "2024-08-15T04:00:00.000Z",
+    "arrival_time": "2024-08-15T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Alaska Airlines",
+    "available_seats": 131,
+    "ticket_price": 102,
+    "departure_time": "2024-08-15T06:00:00.000Z",
+    "arrival_time": "2024-08-15T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "American Airlines",
+    "available_seats": 151,
+    "ticket_price": 94,
+    "departure_time": "2024-08-15T08:00:00.000Z",
+    "arrival_time": "2024-08-15T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "JetBlue",
+    "available_seats": 197,
+    "ticket_price": 135,
+    "departure_time": "2024-08-15T10:00:00.000Z",
+    "arrival_time": "2024-08-15T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Spirit",
+    "available_seats": 84,
+    "ticket_price": 102,
+    "departure_time": "2024-08-15T12:00:00.000Z",
+    "arrival_time": "2024-08-15T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Frontier",
+    "available_seats": 89,
+    "ticket_price": 131,
+    "departure_time": "2024-08-15T14:00:00.000Z",
+    "arrival_time": "2024-08-15T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Delta",
+    "available_seats": 223,
+    "ticket_price": 69,
+    "departure_time": "2024-08-28T00:00:00.000Z",
+    "arrival_time": "2024-08-28T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "United",
+    "available_seats": 113,
+    "ticket_price": 67,
+    "departure_time": "2024-08-28T02:00:00.000Z",
+    "arrival_time": "2024-08-28T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Southwest",
+    "available_seats": 242,
+    "ticket_price": 51,
+    "departure_time": "2024-08-28T04:00:00.000Z",
+    "arrival_time": "2024-08-28T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Alaska Airlines",
+    "available_seats": 156,
+    "ticket_price": 102,
+    "departure_time": "2024-08-28T06:00:00.000Z",
+    "arrival_time": "2024-08-28T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "American Airlines",
+    "available_seats": 77,
+    "ticket_price": 50,
+    "departure_time": "2024-08-28T08:00:00.000Z",
+    "arrival_time": "2024-08-28T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "JetBlue",
+    "available_seats": 233,
+    "ticket_price": 91,
+    "departure_time": "2024-08-28T10:00:00.000Z",
+    "arrival_time": "2024-08-28T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Spirit",
+    "available_seats": 219,
+    "ticket_price": 138,
+    "departure_time": "2024-08-28T12:00:00.000Z",
+    "arrival_time": "2024-08-28T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Frontier",
+    "available_seats": 176,
+    "ticket_price": 143,
+    "departure_time": "2024-08-28T14:00:00.000Z",
+    "arrival_time": "2024-08-28T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Delta",
+    "available_seats": 81,
+    "ticket_price": 56,
+    "departure_time": "2024-08-15T00:00:00.000Z",
+    "arrival_time": "2024-08-15T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "United",
+    "available_seats": 109,
+    "ticket_price": 86,
+    "departure_time": "2024-08-15T02:00:00.000Z",
+    "arrival_time": "2024-08-15T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Southwest",
+    "available_seats": 129,
+    "ticket_price": 110,
+    "departure_time": "2024-08-15T04:00:00.000Z",
+    "arrival_time": "2024-08-15T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Alaska Airlines",
+    "available_seats": 215,
+    "ticket_price": 143,
+    "departure_time": "2024-08-15T06:00:00.000Z",
+    "arrival_time": "2024-08-15T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "American Airlines",
+    "available_seats": 201,
+    "ticket_price": 130,
+    "departure_time": "2024-08-15T08:00:00.000Z",
+    "arrival_time": "2024-08-15T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "JetBlue",
+    "available_seats": 143,
+    "ticket_price": 131,
+    "departure_time": "2024-08-15T10:00:00.000Z",
+    "arrival_time": "2024-08-15T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Spirit",
+    "available_seats": 66,
+    "ticket_price": 80,
+    "departure_time": "2024-08-15T12:00:00.000Z",
+    "arrival_time": "2024-08-15T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Frontier",
+    "available_seats": 183,
+    "ticket_price": 61,
+    "departure_time": "2024-08-15T14:00:00.000Z",
+    "arrival_time": "2024-08-15T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "India",
+    "destination_city": "China",
+    "airline": "Delta",
+    "available_seats": 151,
+    "ticket_price": 100,
+    "departure_time": "2024-08-14T00:00:00.000Z",
+    "arrival_time": "2024-08-14T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "India",
+    "destination_city": "China",
+    "airline": "United",
+    "available_seats": 212,
+    "ticket_price": 103,
+    "departure_time": "2024-08-14T02:00:00.000Z",
+    "arrival_time": "2024-08-14T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "India",
+    "destination_city": "China",
+    "airline": "Southwest",
+    "available_seats": 171,
+    "ticket_price": 80,
+    "departure_time": "2024-08-14T04:00:00.000Z",
+    "arrival_time": "2024-08-14T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "India",
+    "destination_city": "China",
+    "airline": "Alaska Airlines",
+    "available_seats": 219,
+    "ticket_price": 59,
+    "departure_time": "2024-08-14T06:00:00.000Z",
+    "arrival_time": "2024-08-14T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "India",
+    "destination_city": "China",
+    "airline": "American Airlines",
+    "available_seats": 216,
+    "ticket_price": 96,
+    "departure_time": "2024-08-14T08:00:00.000Z",
+    "arrival_time": "2024-08-14T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "India",
+    "destination_city": "China",
+    "airline": "JetBlue",
+    "available_seats": 164,
+    "ticket_price": 80,
+    "departure_time": "2024-08-14T10:00:00.000Z",
+    "arrival_time": "2024-08-14T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "India",
+    "destination_city": "China",
+    "airline": "Spirit",
+    "available_seats": 150,
+    "ticket_price": 101,
+    "departure_time": "2024-08-14T12:00:00.000Z",
+    "arrival_time": "2024-08-14T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "India",
+    "destination_city": "China",
+    "airline": "Frontier",
+    "available_seats": 157,
+    "ticket_price": 65,
+    "departure_time": "2024-08-14T14:00:00.000Z",
+    "arrival_time": "2024-08-14T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "India",
+    "destination_city": "Pakistan",
+    "airline": "Delta",
+    "available_seats": 97,
+    "ticket_price": 124,
+    "departure_time": "2024-08-29T00:00:00.000Z",
+    "arrival_time": "2024-08-29T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "India",
+    "destination_city": "Pakistan",
+    "airline": "United",
+    "available_seats": 234,
+    "ticket_price": 147,
+    "departure_time": "2024-08-29T02:00:00.000Z",
+    "arrival_time": "2024-08-29T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "India",
+    "destination_city": "Pakistan",
+    "airline": "Southwest",
+    "available_seats": 170,
+    "ticket_price": 145,
+    "departure_time": "2024-08-29T04:00:00.000Z",
+    "arrival_time": "2024-08-29T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "India",
+    "destination_city": "Pakistan",
+    "airline": "Alaska Airlines",
+    "available_seats": 197,
+    "ticket_price": 67,
+    "departure_time": "2024-08-29T06:00:00.000Z",
+    "arrival_time": "2024-08-29T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "India",
+    "destination_city": "Pakistan",
+    "airline": "American Airlines",
+    "available_seats": 232,
+    "ticket_price": 138,
+    "departure_time": "2024-08-29T08:00:00.000Z",
+    "arrival_time": "2024-08-29T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "India",
+    "destination_city": "Pakistan",
+    "airline": "JetBlue",
+    "available_seats": 144,
+    "ticket_price": 117,
+    "departure_time": "2024-08-29T10:00:00.000Z",
+    "arrival_time": "2024-08-29T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "India",
+    "destination_city": "Pakistan",
+    "airline": "Spirit",
+    "available_seats": 157,
+    "ticket_price": 113,
+    "departure_time": "2024-08-29T12:00:00.000Z",
+    "arrival_time": "2024-08-29T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "India",
+    "destination_city": "Pakistan",
+    "airline": "Frontier",
+    "available_seats": 175,
+    "ticket_price": 61,
+    "departure_time": "2024-08-29T14:00:00.000Z",
+    "arrival_time": "2024-08-29T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Canada",
+    "destination_city": "US",
+    "airline": "Delta",
+    "available_seats": 169,
+    "ticket_price": 80,
+    "departure_time": "2024-09-06T00:00:00.000Z",
+    "arrival_time": "2024-09-06T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Canada",
+    "destination_city": "US",
+    "airline": "United",
+    "available_seats": 68,
+    "ticket_price": 58,
+    "departure_time": "2024-09-06T02:00:00.000Z",
+    "arrival_time": "2024-09-06T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Canada",
+    "destination_city": "US",
+    "airline": "Southwest",
+    "available_seats": 74,
+    "ticket_price": 110,
+    "departure_time": "2024-09-06T04:00:00.000Z",
+    "arrival_time": "2024-09-06T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Canada",
+    "destination_city": "US",
+    "airline": "Alaska Airlines",
+    "available_seats": 64,
+    "ticket_price": 58,
+    "departure_time": "2024-09-06T06:00:00.000Z",
+    "arrival_time": "2024-09-06T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Canada",
+    "destination_city": "US",
+    "airline": "American Airlines",
+    "available_seats": 150,
+    "ticket_price": 99,
+    "departure_time": "2024-09-06T08:00:00.000Z",
+    "arrival_time": "2024-09-06T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Canada",
+    "destination_city": "US",
+    "airline": "JetBlue",
+    "available_seats": 146,
+    "ticket_price": 50,
+    "departure_time": "2024-09-06T10:00:00.000Z",
+    "arrival_time": "2024-09-06T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Canada",
+    "destination_city": "US",
+    "airline": "Spirit",
+    "available_seats": 144,
+    "ticket_price": 128,
+    "departure_time": "2024-09-06T12:00:00.000Z",
+    "arrival_time": "2024-09-06T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Canada",
+    "destination_city": "US",
+    "airline": "Frontier",
+    "available_seats": 169,
+    "ticket_price": 128,
+    "departure_time": "2024-09-06T14:00:00.000Z",
+    "arrival_time": "2024-09-06T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Canada",
+    "destination_city": "United States",
+    "airline": "Delta",
+    "available_seats": 70,
+    "ticket_price": 133,
+    "departure_time": "2024-08-16T00:00:00.000Z",
+    "arrival_time": "2024-08-16T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Canada",
+    "destination_city": "United States",
+    "airline": "United",
+    "available_seats": 154,
+    "ticket_price": 74,
+    "departure_time": "2024-08-16T02:00:00.000Z",
+    "arrival_time": "2024-08-16T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Canada",
+    "destination_city": "United States",
+    "airline": "Southwest",
+    "available_seats": 194,
+    "ticket_price": 136,
+    "departure_time": "2024-08-16T04:00:00.000Z",
+    "arrival_time": "2024-08-16T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Canada",
+    "destination_city": "United States",
+    "airline": "Alaska Airlines",
+    "available_seats": 224,
+    "ticket_price": 95,
+    "departure_time": "2024-08-16T06:00:00.000Z",
+    "arrival_time": "2024-08-16T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Canada",
+    "destination_city": "United States",
+    "airline": "American Airlines",
+    "available_seats": 205,
+    "ticket_price": 56,
+    "departure_time": "2024-08-16T08:00:00.000Z",
+    "arrival_time": "2024-08-16T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Canada",
+    "destination_city": "United States",
+    "airline": "JetBlue",
+    "available_seats": 147,
+    "ticket_price": 98,
+    "departure_time": "2024-08-16T10:00:00.000Z",
+    "arrival_time": "2024-08-16T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Canada",
+    "destination_city": "United States",
+    "airline": "Spirit",
+    "available_seats": 141,
+    "ticket_price": 64,
+    "departure_time": "2024-08-16T12:00:00.000Z",
+    "arrival_time": "2024-08-16T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Canada",
+    "destination_city": "United States",
+    "airline": "Frontier",
+    "available_seats": 99,
+    "ticket_price": 60,
+    "departure_time": "2024-08-16T14:00:00.000Z",
+    "arrival_time": "2024-08-16T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Toronto",
+    "destination_city": "Canada",
+    "airline": "Delta",
+    "available_seats": 126,
+    "ticket_price": 109,
+    "departure_time": "2024-08-26T00:00:00.000Z",
+    "arrival_time": "2024-08-26T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Toronto",
+    "destination_city": "Canada",
+    "airline": "United",
+    "available_seats": 113,
+    "ticket_price": 51,
+    "departure_time": "2024-08-26T02:00:00.000Z",
+    "arrival_time": "2024-08-26T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Toronto",
+    "destination_city": "Canada",
+    "airline": "Southwest",
+    "available_seats": 114,
+    "ticket_price": 116,
+    "departure_time": "2024-08-26T04:00:00.000Z",
+    "arrival_time": "2024-08-26T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Toronto",
+    "destination_city": "Canada",
+    "airline": "Alaska Airlines",
+    "available_seats": 50,
+    "ticket_price": 147,
+    "departure_time": "2024-08-26T06:00:00.000Z",
+    "arrival_time": "2024-08-26T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Toronto",
+    "destination_city": "Canada",
+    "airline": "American Airlines",
+    "available_seats": 134,
+    "ticket_price": 128,
+    "departure_time": "2024-08-26T08:00:00.000Z",
+    "arrival_time": "2024-08-26T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Toronto",
+    "destination_city": "Canada",
+    "airline": "JetBlue",
+    "available_seats": 123,
+    "ticket_price": 127,
+    "departure_time": "2024-08-26T10:00:00.000Z",
+    "arrival_time": "2024-08-26T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Toronto",
+    "destination_city": "Canada",
+    "airline": "Spirit",
+    "available_seats": 159,
+    "ticket_price": 117,
+    "departure_time": "2024-08-26T12:00:00.000Z",
+    "arrival_time": "2024-08-26T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Toronto",
+    "destination_city": "Canada",
+    "airline": "Frontier",
+    "available_seats": 131,
+    "ticket_price": 141,
+    "departure_time": "2024-08-26T14:00:00.000Z",
+    "arrival_time": "2024-08-26T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Toronto",
+    "destination_city": "Ottawa",
+    "airline": "Delta",
+    "available_seats": 217,
+    "ticket_price": 96,
+    "departure_time": "2024-08-14T00:00:00.000Z",
+    "arrival_time": "2024-08-14T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Toronto",
+    "destination_city": "Ottawa",
+    "airline": "United",
+    "available_seats": 143,
+    "ticket_price": 50,
+    "departure_time": "2024-08-14T02:00:00.000Z",
+    "arrival_time": "2024-08-14T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Toronto",
+    "destination_city": "Ottawa",
+    "airline": "Southwest",
+    "available_seats": 56,
+    "ticket_price": 142,
+    "departure_time": "2024-08-14T04:00:00.000Z",
+    "arrival_time": "2024-08-14T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Toronto",
+    "destination_city": "Ottawa",
+    "airline": "Alaska Airlines",
+    "available_seats": 179,
+    "ticket_price": 111,
+    "departure_time": "2024-08-14T06:00:00.000Z",
+    "arrival_time": "2024-08-14T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Toronto",
+    "destination_city": "Ottawa",
+    "airline": "American Airlines",
+    "available_seats": 199,
+    "ticket_price": 138,
+    "departure_time": "2024-08-14T08:00:00.000Z",
+    "arrival_time": "2024-08-14T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Toronto",
+    "destination_city": "Ottawa",
+    "airline": "JetBlue",
+    "available_seats": 199,
+    "ticket_price": 148,
+    "departure_time": "2024-08-14T10:00:00.000Z",
+    "arrival_time": "2024-08-14T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Toronto",
+    "destination_city": "Ottawa",
+    "airline": "Spirit",
+    "available_seats": 182,
+    "ticket_price": 137,
+    "departure_time": "2024-08-14T12:00:00.000Z",
+    "arrival_time": "2024-08-14T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Toronto",
+    "destination_city": "Ottawa",
+    "airline": "Frontier",
+    "available_seats": 247,
+    "ticket_price": 102,
+    "departure_time": "2024-08-14T14:00:00.000Z",
+    "arrival_time": "2024-08-14T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Delta",
+    "available_seats": 123,
+    "ticket_price": 79,
+    "departure_time": "2024-08-08T00:00:00.000Z",
+    "arrival_time": "2024-08-08T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "United",
+    "available_seats": 113,
+    "ticket_price": 76,
+    "departure_time": "2024-08-08T02:00:00.000Z",
+    "arrival_time": "2024-08-08T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Southwest",
+    "available_seats": 194,
+    "ticket_price": 139,
+    "departure_time": "2024-08-08T04:00:00.000Z",
+    "arrival_time": "2024-08-08T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Alaska Airlines",
+    "available_seats": 61,
+    "ticket_price": 86,
+    "departure_time": "2024-08-08T06:00:00.000Z",
+    "arrival_time": "2024-08-08T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "American Airlines",
+    "available_seats": 199,
+    "ticket_price": 87,
+    "departure_time": "2024-08-08T08:00:00.000Z",
+    "arrival_time": "2024-08-08T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "JetBlue",
+    "available_seats": 228,
+    "ticket_price": 116,
+    "departure_time": "2024-08-08T10:00:00.000Z",
+    "arrival_time": "2024-08-08T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Spirit",
+    "available_seats": 162,
+    "ticket_price": 84,
+    "departure_time": "2024-08-08T12:00:00.000Z",
+    "arrival_time": "2024-08-08T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Frontier",
+    "available_seats": 220,
+    "ticket_price": 69,
+    "departure_time": "2024-08-08T14:00:00.000Z",
+    "arrival_time": "2024-08-08T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Delta",
+    "available_seats": 178,
+    "ticket_price": 88,
+    "departure_time": "2024-08-07T00:00:00.000Z",
+    "arrival_time": "2024-08-07T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "United",
+    "available_seats": 236,
+    "ticket_price": 86,
+    "departure_time": "2024-08-07T02:00:00.000Z",
+    "arrival_time": "2024-08-07T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Southwest",
+    "available_seats": 102,
+    "ticket_price": 102,
+    "departure_time": "2024-08-07T04:00:00.000Z",
+    "arrival_time": "2024-08-07T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Alaska Airlines",
+    "available_seats": 106,
+    "ticket_price": 98,
+    "departure_time": "2024-08-07T06:00:00.000Z",
+    "arrival_time": "2024-08-07T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "American Airlines",
+    "available_seats": 189,
+    "ticket_price": 138,
+    "departure_time": "2024-08-07T08:00:00.000Z",
+    "arrival_time": "2024-08-07T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "JetBlue",
+    "available_seats": 113,
+    "ticket_price": 78,
+    "departure_time": "2024-08-07T10:00:00.000Z",
+    "arrival_time": "2024-08-07T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Spirit",
+    "available_seats": 195,
+    "ticket_price": 141,
+    "departure_time": "2024-08-07T12:00:00.000Z",
+    "arrival_time": "2024-08-07T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Frontier",
+    "available_seats": 232,
+    "ticket_price": 81,
+    "departure_time": "2024-08-07T14:00:00.000Z",
+    "arrival_time": "2024-08-07T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 198,
+    "ticket_price": 60,
+    "departure_time": "2024-08-07T00:00:00.000Z",
+    "arrival_time": "2024-08-07T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 176,
+    "ticket_price": 118,
+    "departure_time": "2024-08-07T02:00:00.000Z",
+    "arrival_time": "2024-08-07T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 126,
+    "ticket_price": 107,
+    "departure_time": "2024-08-07T04:00:00.000Z",
+    "arrival_time": "2024-08-07T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 243,
+    "ticket_price": 85,
+    "departure_time": "2024-08-07T06:00:00.000Z",
+    "arrival_time": "2024-08-07T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 235,
+    "ticket_price": 126,
+    "departure_time": "2024-08-07T08:00:00.000Z",
+    "arrival_time": "2024-08-07T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 110,
+    "ticket_price": 134,
+    "departure_time": "2024-08-07T10:00:00.000Z",
+    "arrival_time": "2024-08-07T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 65,
+    "ticket_price": 76,
+    "departure_time": "2024-08-07T12:00:00.000Z",
+    "arrival_time": "2024-08-07T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Beijing",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 221,
+    "ticket_price": 102,
+    "departure_time": "2024-08-07T14:00:00.000Z",
+    "arrival_time": "2024-08-07T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 129,
+    "ticket_price": 115,
+    "departure_time": "2024-08-02T00:00:00.000Z",
+    "arrival_time": "2024-08-02T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 61,
+    "ticket_price": 118,
+    "departure_time": "2024-08-02T02:00:00.000Z",
+    "arrival_time": "2024-08-02T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 199,
+    "ticket_price": 112,
+    "departure_time": "2024-08-02T04:00:00.000Z",
+    "arrival_time": "2024-08-02T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 164,
+    "ticket_price": 85,
+    "departure_time": "2024-08-02T06:00:00.000Z",
+    "arrival_time": "2024-08-02T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 159,
+    "ticket_price": 55,
+    "departure_time": "2024-08-02T08:00:00.000Z",
+    "arrival_time": "2024-08-02T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 157,
+    "ticket_price": 114,
+    "departure_time": "2024-08-02T10:00:00.000Z",
+    "arrival_time": "2024-08-02T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 239,
+    "ticket_price": 109,
+    "departure_time": "2024-08-02T12:00:00.000Z",
+    "arrival_time": "2024-08-02T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 113,
+    "ticket_price": 104,
+    "departure_time": "2024-08-02T14:00:00.000Z",
+    "arrival_time": "2024-08-02T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Delta",
+    "available_seats": 224,
+    "ticket_price": 115,
+    "departure_time": "2024-08-14T00:00:00.000Z",
+    "arrival_time": "2024-08-14T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "United",
+    "available_seats": 94,
+    "ticket_price": 71,
+    "departure_time": "2024-08-14T02:00:00.000Z",
+    "arrival_time": "2024-08-14T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Southwest",
+    "available_seats": 74,
+    "ticket_price": 103,
+    "departure_time": "2024-08-14T04:00:00.000Z",
+    "arrival_time": "2024-08-14T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Alaska Airlines",
+    "available_seats": 60,
+    "ticket_price": 83,
+    "departure_time": "2024-08-14T06:00:00.000Z",
+    "arrival_time": "2024-08-14T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "American Airlines",
+    "available_seats": 140,
+    "ticket_price": 91,
+    "departure_time": "2024-08-14T08:00:00.000Z",
+    "arrival_time": "2024-08-14T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "JetBlue",
+    "available_seats": 181,
+    "ticket_price": 110,
+    "departure_time": "2024-08-14T10:00:00.000Z",
+    "arrival_time": "2024-08-14T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Spirit",
+    "available_seats": 238,
+    "ticket_price": 86,
+    "departure_time": "2024-08-14T12:00:00.000Z",
+    "arrival_time": "2024-08-14T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Beijing",
+    "destination_city": "Miami",
+    "airline": "Frontier",
+    "available_seats": 52,
+    "ticket_price": 122,
+    "departure_time": "2024-08-14T14:00:00.000Z",
+    "arrival_time": "2024-08-14T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 165,
+    "ticket_price": 143,
+    "departure_time": "2024-08-27T00:00:00.000Z",
+    "arrival_time": "2024-08-27T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 104,
+    "ticket_price": 83,
+    "departure_time": "2024-08-27T02:00:00.000Z",
+    "arrival_time": "2024-08-27T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 145,
+    "ticket_price": 127,
+    "departure_time": "2024-08-27T04:00:00.000Z",
+    "arrival_time": "2024-08-27T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 58,
+    "ticket_price": 145,
+    "departure_time": "2024-08-27T06:00:00.000Z",
+    "arrival_time": "2024-08-27T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 193,
+    "ticket_price": 121,
+    "departure_time": "2024-08-27T08:00:00.000Z",
+    "arrival_time": "2024-08-27T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 222,
+    "ticket_price": 97,
+    "departure_time": "2024-08-27T10:00:00.000Z",
+    "arrival_time": "2024-08-27T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 220,
+    "ticket_price": 60,
+    "departure_time": "2024-08-27T12:00:00.000Z",
+    "arrival_time": "2024-08-27T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 219,
+    "ticket_price": 121,
+    "departure_time": "2024-08-27T14:00:00.000Z",
+    "arrival_time": "2024-08-27T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Delta",
+    "available_seats": 89,
+    "ticket_price": 89,
+    "departure_time": "2024-07-31T00:00:00.000Z",
+    "arrival_time": "2024-07-31T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "United",
+    "available_seats": 52,
+    "ticket_price": 50,
+    "departure_time": "2024-07-31T02:00:00.000Z",
+    "arrival_time": "2024-07-31T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Southwest",
+    "available_seats": 104,
+    "ticket_price": 131,
+    "departure_time": "2024-07-31T04:00:00.000Z",
+    "arrival_time": "2024-07-31T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Alaska Airlines",
+    "available_seats": 125,
+    "ticket_price": 71,
+    "departure_time": "2024-07-31T06:00:00.000Z",
+    "arrival_time": "2024-07-31T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "American Airlines",
+    "available_seats": 194,
+    "ticket_price": 136,
+    "departure_time": "2024-07-31T08:00:00.000Z",
+    "arrival_time": "2024-07-31T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "JetBlue",
+    "available_seats": 180,
+    "ticket_price": 129,
+    "departure_time": "2024-07-31T10:00:00.000Z",
+    "arrival_time": "2024-07-31T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Spirit",
+    "available_seats": 145,
+    "ticket_price": 117,
+    "departure_time": "2024-07-31T12:00:00.000Z",
+    "arrival_time": "2024-07-31T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Frontier",
+    "available_seats": 216,
+    "ticket_price": 103,
+    "departure_time": "2024-07-31T14:00:00.000Z",
+    "arrival_time": "2024-07-31T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 218,
+    "ticket_price": 65,
+    "departure_time": "2024-08-10T00:00:00.000Z",
+    "arrival_time": "2024-08-10T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 174,
+    "ticket_price": 119,
+    "departure_time": "2024-08-10T02:00:00.000Z",
+    "arrival_time": "2024-08-10T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 179,
+    "ticket_price": 123,
+    "departure_time": "2024-08-10T04:00:00.000Z",
+    "arrival_time": "2024-08-10T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 125,
+    "ticket_price": 134,
+    "departure_time": "2024-08-10T06:00:00.000Z",
+    "arrival_time": "2024-08-10T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 225,
+    "ticket_price": 98,
+    "departure_time": "2024-08-10T08:00:00.000Z",
+    "arrival_time": "2024-08-10T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 185,
+    "ticket_price": 118,
+    "departure_time": "2024-08-10T10:00:00.000Z",
+    "arrival_time": "2024-08-10T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 54,
+    "ticket_price": 65,
+    "departure_time": "2024-08-10T12:00:00.000Z",
+    "arrival_time": "2024-08-10T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 187,
+    "ticket_price": 89,
+    "departure_time": "2024-08-10T14:00:00.000Z",
+    "arrival_time": "2024-08-10T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "London",
+    "airline": "Delta",
+    "available_seats": 96,
+    "ticket_price": 107,
+    "departure_time": "2024-08-21T00:00:00.000Z",
+    "arrival_time": "2024-08-21T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "London",
+    "airline": "United",
+    "available_seats": 210,
+    "ticket_price": 107,
+    "departure_time": "2024-08-21T02:00:00.000Z",
+    "arrival_time": "2024-08-21T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "London",
+    "airline": "Southwest",
+    "available_seats": 103,
+    "ticket_price": 147,
+    "departure_time": "2024-08-21T04:00:00.000Z",
+    "arrival_time": "2024-08-21T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "London",
+    "airline": "Alaska Airlines",
+    "available_seats": 198,
+    "ticket_price": 77,
+    "departure_time": "2024-08-21T06:00:00.000Z",
+    "arrival_time": "2024-08-21T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "London",
+    "airline": "American Airlines",
+    "available_seats": 176,
+    "ticket_price": 59,
+    "departure_time": "2024-08-21T08:00:00.000Z",
+    "arrival_time": "2024-08-21T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "London",
+    "airline": "JetBlue",
+    "available_seats": 77,
+    "ticket_price": 125,
+    "departure_time": "2024-08-21T10:00:00.000Z",
+    "arrival_time": "2024-08-21T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "London",
+    "airline": "Spirit",
+    "available_seats": 74,
+    "ticket_price": 130,
+    "departure_time": "2024-08-21T12:00:00.000Z",
+    "arrival_time": "2024-08-21T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "London",
+    "airline": "Frontier",
+    "available_seats": 83,
+    "ticket_price": 57,
+    "departure_time": "2024-08-21T14:00:00.000Z",
+    "arrival_time": "2024-08-21T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Canada",
+    "destination_city": "London",
+    "airline": "Delta",
+    "available_seats": 197,
+    "ticket_price": 69,
+    "departure_time": "2024-08-15T00:00:00.000Z",
+    "arrival_time": "2024-08-15T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Canada",
+    "destination_city": "London",
+    "airline": "United",
+    "available_seats": 132,
+    "ticket_price": 142,
+    "departure_time": "2024-08-15T02:00:00.000Z",
+    "arrival_time": "2024-08-15T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Canada",
+    "destination_city": "London",
+    "airline": "Southwest",
+    "available_seats": 208,
+    "ticket_price": 66,
+    "departure_time": "2024-08-15T04:00:00.000Z",
+    "arrival_time": "2024-08-15T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Canada",
+    "destination_city": "London",
+    "airline": "Alaska Airlines",
+    "available_seats": 153,
+    "ticket_price": 146,
+    "departure_time": "2024-08-15T06:00:00.000Z",
+    "arrival_time": "2024-08-15T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Canada",
+    "destination_city": "London",
+    "airline": "American Airlines",
+    "available_seats": 134,
+    "ticket_price": 69,
+    "departure_time": "2024-08-15T08:00:00.000Z",
+    "arrival_time": "2024-08-15T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Canada",
+    "destination_city": "London",
+    "airline": "JetBlue",
+    "available_seats": 221,
+    "ticket_price": 121,
+    "departure_time": "2024-08-15T10:00:00.000Z",
+    "arrival_time": "2024-08-15T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Canada",
+    "destination_city": "London",
+    "airline": "Spirit",
+    "available_seats": 219,
+    "ticket_price": 135,
+    "departure_time": "2024-08-15T12:00:00.000Z",
+    "arrival_time": "2024-08-15T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Canada",
+    "destination_city": "London",
+    "airline": "Frontier",
+    "available_seats": 167,
+    "ticket_price": 117,
+    "departure_time": "2024-08-15T14:00:00.000Z",
+    "arrival_time": "2024-08-15T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Beijing",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 208,
+    "ticket_price": 51,
+    "departure_time": "2024-08-22T00:00:00.000Z",
+    "arrival_time": "2024-08-22T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Beijing",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 111,
+    "ticket_price": 78,
+    "departure_time": "2024-08-22T02:00:00.000Z",
+    "arrival_time": "2024-08-22T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Beijing",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 229,
+    "ticket_price": 71,
+    "departure_time": "2024-08-22T04:00:00.000Z",
+    "arrival_time": "2024-08-22T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Beijing",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 179,
+    "ticket_price": 134,
+    "departure_time": "2024-08-22T06:00:00.000Z",
+    "arrival_time": "2024-08-22T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Beijing",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 220,
+    "ticket_price": 97,
+    "departure_time": "2024-08-22T08:00:00.000Z",
+    "arrival_time": "2024-08-22T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Beijing",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 190,
+    "ticket_price": 131,
+    "departure_time": "2024-08-22T10:00:00.000Z",
+    "arrival_time": "2024-08-22T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Beijing",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 107,
+    "ticket_price": 75,
+    "departure_time": "2024-08-22T12:00:00.000Z",
+    "arrival_time": "2024-08-22T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Beijing",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 242,
+    "ticket_price": 84,
+    "departure_time": "2024-08-22T14:00:00.000Z",
+    "arrival_time": "2024-08-22T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 195,
+    "ticket_price": 63,
+    "departure_time": "2024-08-15T00:00:00.000Z",
+    "arrival_time": "2024-08-15T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 173,
+    "ticket_price": 124,
+    "departure_time": "2024-08-15T02:00:00.000Z",
+    "arrival_time": "2024-08-15T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 207,
+    "ticket_price": 91,
+    "departure_time": "2024-08-15T04:00:00.000Z",
+    "arrival_time": "2024-08-15T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 197,
+    "ticket_price": 77,
+    "departure_time": "2024-08-15T06:00:00.000Z",
+    "arrival_time": "2024-08-15T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 53,
+    "ticket_price": 61,
+    "departure_time": "2024-08-15T08:00:00.000Z",
+    "arrival_time": "2024-08-15T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 177,
+    "ticket_price": 65,
+    "departure_time": "2024-08-15T10:00:00.000Z",
+    "arrival_time": "2024-08-15T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 229,
+    "ticket_price": 116,
+    "departure_time": "2024-08-15T12:00:00.000Z",
+    "arrival_time": "2024-08-15T14:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 248,
+    "ticket_price": 128,
+    "departure_time": "2024-08-15T14:00:00.000Z",
+    "arrival_time": "2024-08-15T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 137,
+    "ticket_price": 137,
+    "departure_time": "2024-09-13T00:00:00.000Z",
+    "arrival_time": "2024-09-13T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 224,
+    "ticket_price": 141,
+    "departure_time": "2024-09-13T02:00:00.000Z",
+    "arrival_time": "2024-09-13T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 94,
+    "ticket_price": 81,
+    "departure_time": "2024-09-13T04:00:00.000Z",
+    "arrival_time": "2024-09-13T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 155,
+    "ticket_price": 134,
+    "departure_time": "2024-09-13T06:00:00.000Z",
+    "arrival_time": "2024-09-13T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 233,
+    "ticket_price": 131,
+    "departure_time": "2024-09-13T08:00:00.000Z",
+    "arrival_time": "2024-09-13T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 246,
+    "ticket_price": 87,
+    "departure_time": "2024-09-13T10:00:00.000Z",
+    "arrival_time": "2024-09-13T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 188,
+    "ticket_price": 55,
+    "departure_time": "2024-09-13T12:00:00.000Z",
+    "arrival_time": "2024-09-13T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 116,
+    "ticket_price": 101,
+    "departure_time": "2024-09-13T14:00:00.000Z",
+    "arrival_time": "2024-09-13T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 233,
+    "ticket_price": 120,
+    "departure_time": "2024-09-10T00:00:00.000Z",
+    "arrival_time": "2024-09-10T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 168,
+    "ticket_price": 86,
+    "departure_time": "2024-09-10T02:00:00.000Z",
+    "arrival_time": "2024-09-10T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 230,
+    "ticket_price": 62,
+    "departure_time": "2024-09-10T04:00:00.000Z",
+    "arrival_time": "2024-09-10T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 60,
+    "ticket_price": 111,
+    "departure_time": "2024-09-10T06:00:00.000Z",
+    "arrival_time": "2024-09-10T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 238,
+    "ticket_price": 104,
+    "departure_time": "2024-09-10T08:00:00.000Z",
+    "arrival_time": "2024-09-10T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 156,
+    "ticket_price": 109,
+    "departure_time": "2024-09-10T10:00:00.000Z",
+    "arrival_time": "2024-09-10T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 225,
+    "ticket_price": 102,
+    "departure_time": "2024-09-10T12:00:00.000Z",
+    "arrival_time": "2024-09-10T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 143,
+    "ticket_price": 66,
+    "departure_time": "2024-09-10T14:00:00.000Z",
+    "arrival_time": "2024-09-10T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Delta",
+    "available_seats": 151,
+    "ticket_price": 87,
+    "departure_time": "2024-09-11T00:00:00.000Z",
+    "arrival_time": "2024-09-11T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "United",
+    "available_seats": 89,
+    "ticket_price": 135,
+    "departure_time": "2024-09-11T02:00:00.000Z",
+    "arrival_time": "2024-09-11T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Southwest",
+    "available_seats": 96,
+    "ticket_price": 137,
+    "departure_time": "2024-09-11T04:00:00.000Z",
+    "arrival_time": "2024-09-11T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Alaska Airlines",
+    "available_seats": 98,
+    "ticket_price": 120,
+    "departure_time": "2024-09-11T06:00:00.000Z",
+    "arrival_time": "2024-09-11T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "American Airlines",
+    "available_seats": 78,
+    "ticket_price": 84,
+    "departure_time": "2024-09-11T08:00:00.000Z",
+    "arrival_time": "2024-09-11T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "JetBlue",
+    "available_seats": 187,
+    "ticket_price": 104,
+    "departure_time": "2024-09-11T10:00:00.000Z",
+    "arrival_time": "2024-09-11T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Spirit",
+    "available_seats": 110,
+    "ticket_price": 81,
+    "departure_time": "2024-09-11T12:00:00.000Z",
+    "arrival_time": "2024-09-11T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "New York",
+    "airline": "Frontier",
+    "available_seats": 118,
+    "ticket_price": 131,
+    "departure_time": "2024-09-11T14:00:00.000Z",
+    "arrival_time": "2024-09-11T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 59,
+    "ticket_price": 53,
+    "departure_time": "2024-09-19T00:00:00.000Z",
+    "arrival_time": "2024-09-19T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 210,
+    "ticket_price": 113,
+    "departure_time": "2024-09-19T02:00:00.000Z",
+    "arrival_time": "2024-09-19T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 158,
+    "ticket_price": 68,
+    "departure_time": "2024-09-19T04:00:00.000Z",
+    "arrival_time": "2024-09-19T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 157,
+    "ticket_price": 79,
+    "departure_time": "2024-09-19T06:00:00.000Z",
+    "arrival_time": "2024-09-19T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 63,
+    "ticket_price": 83,
+    "departure_time": "2024-09-19T08:00:00.000Z",
+    "arrival_time": "2024-09-19T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 137,
+    "ticket_price": 129,
+    "departure_time": "2024-09-19T10:00:00.000Z",
+    "arrival_time": "2024-09-19T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 115,
+    "ticket_price": 127,
+    "departure_time": "2024-09-19T12:00:00.000Z",
+    "arrival_time": "2024-09-19T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 241,
+    "ticket_price": 149,
+    "departure_time": "2024-09-19T14:00:00.000Z",
+    "arrival_time": "2024-09-19T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Delta",
+    "available_seats": 245,
+    "ticket_price": 117,
+    "departure_time": "2024-09-24T00:00:00.000Z",
+    "arrival_time": "2024-09-24T01:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "United",
+    "available_seats": 220,
+    "ticket_price": 101,
+    "departure_time": "2024-09-24T02:00:00.000Z",
+    "arrival_time": "2024-09-24T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Southwest",
+    "available_seats": 249,
+    "ticket_price": 82,
+    "departure_time": "2024-09-24T04:00:00.000Z",
+    "arrival_time": "2024-09-24T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Alaska Airlines",
+    "available_seats": 247,
+    "ticket_price": 93,
+    "departure_time": "2024-09-24T06:00:00.000Z",
+    "arrival_time": "2024-09-24T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "American Airlines",
+    "available_seats": 130,
+    "ticket_price": 102,
+    "departure_time": "2024-09-24T08:00:00.000Z",
+    "arrival_time": "2024-09-24T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "JetBlue",
+    "available_seats": 186,
+    "ticket_price": 90,
+    "departure_time": "2024-09-24T10:00:00.000Z",
+    "arrival_time": "2024-09-24T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Spirit",
+    "available_seats": 216,
+    "ticket_price": 142,
+    "departure_time": "2024-09-24T12:00:00.000Z",
+    "arrival_time": "2024-09-24T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "London",
+    "destination_city": "Paris",
+    "airline": "Frontier",
+    "available_seats": 218,
+    "ticket_price": 79,
+    "departure_time": "2024-09-24T14:00:00.000Z",
+    "arrival_time": "2024-09-24T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 163,
+    "ticket_price": 122,
+    "departure_time": "2024-09-04T00:00:00.000Z",
+    "arrival_time": "2024-09-04T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 109,
+    "ticket_price": 130,
+    "departure_time": "2024-09-04T02:00:00.000Z",
+    "arrival_time": "2024-09-04T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 249,
+    "ticket_price": 105,
+    "departure_time": "2024-09-04T04:00:00.000Z",
+    "arrival_time": "2024-09-04T06:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 70,
+    "ticket_price": 140,
+    "departure_time": "2024-09-04T06:00:00.000Z",
+    "arrival_time": "2024-09-04T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 72,
+    "ticket_price": 82,
+    "departure_time": "2024-09-04T08:00:00.000Z",
+    "arrival_time": "2024-09-04T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 247,
+    "ticket_price": 98,
+    "departure_time": "2024-09-04T10:00:00.000Z",
+    "arrival_time": "2024-09-04T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 124,
+    "ticket_price": 60,
+    "departure_time": "2024-09-04T12:00:00.000Z",
+    "arrival_time": "2024-09-04T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 175,
+    "ticket_price": 141,
+    "departure_time": "2024-09-04T14:00:00.000Z",
+    "arrival_time": "2024-09-04T16:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "Miami",
+    "airline": "Delta",
+    "available_seats": 118,
+    "ticket_price": 137,
+    "departure_time": "2024-09-19T00:00:00.000Z",
+    "arrival_time": "2024-09-19T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "Miami",
+    "airline": "United",
+    "available_seats": 96,
+    "ticket_price": 80,
+    "departure_time": "2024-09-19T02:00:00.000Z",
+    "arrival_time": "2024-09-19T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "Miami",
+    "airline": "Southwest",
+    "available_seats": 156,
+    "ticket_price": 93,
+    "departure_time": "2024-09-19T04:00:00.000Z",
+    "arrival_time": "2024-09-19T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "Miami",
+    "airline": "Alaska Airlines",
+    "available_seats": 108,
+    "ticket_price": 103,
+    "departure_time": "2024-09-19T06:00:00.000Z",
+    "arrival_time": "2024-09-19T07:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "Miami",
+    "airline": "American Airlines",
+    "available_seats": 194,
+    "ticket_price": 70,
+    "departure_time": "2024-09-19T08:00:00.000Z",
+    "arrival_time": "2024-09-19T09:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "Miami",
+    "airline": "JetBlue",
+    "available_seats": 97,
+    "ticket_price": 61,
+    "departure_time": "2024-09-19T10:00:00.000Z",
+    "arrival_time": "2024-09-19T12:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "Miami",
+    "airline": "Spirit",
+    "available_seats": 77,
+    "ticket_price": 123,
+    "departure_time": "2024-09-19T12:00:00.000Z",
+    "arrival_time": "2024-09-19T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "Miami",
+    "airline": "Frontier",
+    "available_seats": 111,
+    "ticket_price": 136,
+    "departure_time": "2024-09-19T14:00:00.000Z",
+    "arrival_time": "2024-09-19T15:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Delta",
+    "available_seats": 206,
+    "ticket_price": 101,
+    "departure_time": "2024-09-13T00:00:00.000Z",
+    "arrival_time": "2024-09-13T02:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "United",
+    "available_seats": 217,
+    "ticket_price": 72,
+    "departure_time": "2024-09-13T02:00:00.000Z",
+    "arrival_time": "2024-09-13T04:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Southwest",
+    "available_seats": 185,
+    "ticket_price": 57,
+    "departure_time": "2024-09-13T04:00:00.000Z",
+    "arrival_time": "2024-09-13T05:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Alaska Airlines",
+    "available_seats": 242,
+    "ticket_price": 64,
+    "departure_time": "2024-09-13T06:00:00.000Z",
+    "arrival_time": "2024-09-13T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "American Airlines",
+    "available_seats": 75,
+    "ticket_price": 137,
+    "departure_time": "2024-09-13T08:00:00.000Z",
+    "arrival_time": "2024-09-13T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "JetBlue",
+    "available_seats": 221,
+    "ticket_price": 123,
+    "departure_time": "2024-09-13T10:00:00.000Z",
+    "arrival_time": "2024-09-13T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Spirit",
+    "available_seats": 117,
+    "ticket_price": 78,
+    "departure_time": "2024-09-13T12:00:00.000Z",
+    "arrival_time": "2024-09-13T13:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "origin_city": "Boston",
+    "destination_city": "Las Vegas",
+    "airline": "Frontier",
+    "available_seats": 161,
+    "ticket_price": 51,
+    "departure_time": "2024-09-13T14:00:00.000Z",
+    "arrival_time": "2024-09-13T16:00:00.000Z"
+  }
+]

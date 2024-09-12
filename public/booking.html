@@ -1,0 +1,83 @@
+<!DOCTYPE json>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <a href="index.html" class="back-button">← Back</a>
+    
+    <div class="booking-container">
+        <div class="form-section">
+            <label for="full-name">Full Name</label>
+            <input type="text" id="full-name" placeholder="Full name">
+
+            <label for="dob">Date of Birth</label>
+            <input type="date" id="dob">
+
+            <label for="passport-number">Passport Number</label>
+            <input type="text" id="passport-number" placeholder="Passport number">
+
+            <div class="price-container">
+                <p id="flight-price">Price: </p>
+            </div>
+            
+            <label for="currency">Currency:</label>
+            <select id="currency">
+                <!-- Options will be dynamically populated -->
+            </select>
+            
+
+
+            <button id="confirm-booking">Confirm Booking</button>
+        </div>
+        
+
+        
+        <div class="details-section">
+            <h3>Flight Details</h3>
+            <div id="flight-details">
+                <p>Details of selected flight</p>
+                
+            </div>
+            <div id="weather-details"></div>
+            
+            <button id="drivableRouteBtn">Show Drivable Route</button>
+            
+        </div>
+        
+    </div>
+    
+
+
+    <div id="map" style="width: 100%; height: 400px;"></div>
+    <script>
+    document.getElementById('drivableRouteBtn').addEventListener('click', function() {
+        const origin = flightDetails.origin_city;
+        const destination = flightDetails.destination_city;
+    
+        L.mapquest.key = 'vRx1Y80k4o4MChBqAmB8VXKbYqexxBCJ';
+        var map = L.mapquest.map('map', {
+          center: [0, 0], // This will be set by the directions
+          layers: L.mapquest.tileLayer('map'),
+          zoom: 7
+        });
+    
+        L.mapquest.directions().route({
+          start: origin,
+          end: destination
+        });
+    });
+    
+    </script>
+    
+
+<script src="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.js"></script>
+<link rel="stylesheet" type="text/css" href="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.css"/>
+
+
+    <script src="booking.js"></script>
+</body>
+</html>
